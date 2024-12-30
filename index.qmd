@@ -1,0 +1,26 @@
+---
+title: "La revenche"
+author: "Titou"
+format:
+  revealjs:
+    # By putting 'revealjs' here, this file will be rendered as a Reveal.js slide deck.
+    slideNumber: true
+    transition: slide
+---
+
+# Introduction
+
+Welcome to my Quarto slides!
+
+---
+
+# Another Slide
+
+- Bullet 1
+- Bullet 2
+
+---
+
+# Thank You
+
+Any questions?
