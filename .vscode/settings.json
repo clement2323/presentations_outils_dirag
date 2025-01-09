@@ -1,0 +1,9 @@
+{
+    "[quarto]": {
+        "editor.wordWrap": "on"
+    },
+    "files.associations": {
+        "*.qmd": "rmd"
+    },
+    "editor.wordWrap": "on"
+}

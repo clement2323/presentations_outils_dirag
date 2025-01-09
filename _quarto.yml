@@ -1,3 +1,20 @@
 project:
   type: website
   output-dir: _site
+
+website:
+  title: "Automatisation dans les études"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: introduction.qmd
+        text: Introduction
+      - href: section1.qmd
+        text: Section 1
+      # Ajoutez d'autres sections selon vos besoins
+
+format:
+  html:
+    theme: cosmo
+    toc: true

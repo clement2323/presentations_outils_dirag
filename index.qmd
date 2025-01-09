@@ -1,26 +1,25 @@
 ---
-title: "La revenche"
-author: "Titou"
+title: "Automatisation dans les études"
+subtitle: |
+  **Valentine Chieze, Clément Guillo**
+date: "11/13/2024"
+date-format: "D MMMM YYYY"
+slide-number: true
+lang: en-GB
+slide-tone: false
+chalkboard:
+  theme: whiteboard
 format:
-  revealjs:
-    # By putting 'revealjs' here, this file will be rendered as a Reveal.js slide deck.
-    slideNumber: true
-    transition: slide
+  onyxia-revealjs:
+    output-file: index.html
+controls: true
+css: ../custom.css
+ascii: true
 ---
 
-# Introduction
+# Bienvenue
 
-Welcome to my Quarto slides!
+Ce site présente notre travail sur l'automatisation dans les études.
 
----
-
-# Another Slide
-
-- Bullet 1
-- Bullet 2
-
----
-
-# Thank You
-
-Any questions?
+{{< include introduction.qmd >}}
+{{< include section1.qmd >}}
