@@ -4,17 +4,15 @@ subtitle: |
   **Valentine Chieze, Clément Guillo**
 date: "11/13/2024"
 date-format: "D MMMM YYYY"
-slide-number: true
-lang: en-GB
-slide-tone: false
-chalkboard:
-  theme: whiteboard
 format:
-  onyxia-revealjs:
-    output-file: index.html
-controls: true
-css: ./custom.css
-ascii: true
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    css: custom.css  # optionnel
+    controls: true
+lang: fr-FR
 ---
 
 # Bienvenue
