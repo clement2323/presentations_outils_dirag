@@ -30,7 +30,8 @@
     }
   </style>
   <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css">
-  <link rel="stylesheet" href="custom.css">
+  <link rel="stylesheet" href="site_libs/quarto-contrib/quarto-project/InseeFrLab/onyxia/logo.css">
+  <link rel="stylesheet" href="../custom.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -321,12 +322,13 @@
       margin-right: 0; 
     }
   </style>
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 </head>
 <body class="quarto-light">
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" class="quarto-title-block center">
+<section id="title-slide" data-background-image="site_libs/quarto-contrib/quarto-project/InseeFrLab/onyxia/background.svg" data-background-size="contain" class="quarto-title-block center">
   <h1 class="title">Section 1</h1>
   <p class="subtitle"></p><p><strong>Valentine Chieze, Clément Guillo</strong></p><p></p>
 
@@ -335,17 +337,17 @@
 
   <p class="date">13 novembre 2024</p>
 </section>
-<section id="bienvenue" class="title-slide slide level1 center">
+<section id="bienvenue" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
 <h1>Bienvenue</h1>
 <p>Ce site présente notre travail sur l’automatisation dans les études.</p>
 </section>
 
-<section id="introduction" class="title-slide slide level1 center">
+<section id="introduction" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
 <h1>Introduction</h1>
 <p>Welcome to my Quarto slides!</p>
 </section>
 
-<section id="another-slide" class="title-slide slide level1 center">
+<section id="another-slide" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
 <h1>Another Slide</h1>
 <ul>
 <li>Bullet 1</li>
@@ -382,14 +384,14 @@
       // https://revealjs.com/config/
       Reveal.initialize({
 'controlsAuto': false,
-'previewLinksAuto': true,
+'previewLinksAuto': false,
 'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
-'chalkboard': {"buttons":true},
+'chalkboard': {"buttons":true,"theme":"whiteboard"},
 'smaller': false,
  
         // Display controls in the bottom right corner
@@ -620,12 +622,12 @@
         // flash "checked"
         button.classList.add('code-copy-button-checked');
         var currentTitle = button.getAttribute("title");
-        button.setAttribute("title", "Copié");
+        button.setAttribute("title", "Copi&#xE9;");
         let tooltip;
         if (window.bootstrap) {
           button.setAttribute("data-bs-toggle", "tooltip");
           button.setAttribute("data-bs-placement", "left");
-          button.setAttribute("data-bs-title", "Copié");
+          button.setAttribute("data-bs-title", "Copi&#xE9;");
           tooltip = new bootstrap.Tooltip(button, 
             { trigger: "manual", 
               customClass: "code-copy-button-tooltip",
