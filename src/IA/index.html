@@ -10,7 +10,7 @@
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.5.37">
 
-  <title>Présentation SES Dirag – Introduction</title>
+  <title>Présentation SES Dirag – IA et ses usages (potentiels) à l’INSEE</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -324,7 +324,7 @@
     }
   </style>
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-<meta property="og:title" content="Présentation SES Dirag - Introduction">
+<meta property="og:title" content="Présentation SES Dirag - IA et ses usages (potentiels) à l’INSEE">
 <meta property="og:description" content="Clément Guillo">
 <meta property="og:site_name" content="Présentation SES Dirag">
 </head>
@@ -333,7 +333,7 @@
     <div class="slides">
 
 <section id="title-slide" data-background-image="../../site_libs/quarto-contrib/quarto-project/InseeFrLab/onyxia/background.svg" data-background-size="contain" class="quarto-title-block center">
-  <h1 class="title">Introduction</h1>
+  <h1 class="title">IA et ses usages (potentiels) à l’INSEE</h1>
   <p class="subtitle"></p><p><strong>Clément Guillo</strong></p><p></p>
 
 <div class="quarto-title-authors">
@@ -348,87 +348,179 @@
 
 <section id="plan-de-la-présentation" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
 <h1>Plan de la présentation</h1>
-<p>1️⃣ Introduction 2️⃣ Définition de l’IA 3️⃣ Les LLMS 4️⃣ Opportunités pour l’INSEE 5️⃣ Quelques exemples 6️⃣ Discussion</p>
+<p>1️⃣ Introduction</p>
+<p>2️⃣ Les LLMS</p>
+<p>4️⃣ Opportunités pour l’INSEE</p>
+<p>5️⃣ Quelques exemples</p>
+<p>6️⃣ Discussion</p>
 </section>
 
+<section>
 <section id="introduction" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
 <h1>1️⃣ Introduction</h1>
 
 </section>
-
-<section id="introduction-1" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
-<h1>Introduction</h1>
+<section id="introduction-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Introduction</h2>
 <ul>
-<li>Beaucoup de “hype” autour de l’intelligence artificielle</li>
+<li>Beaucoup de “hype” autour de l’intelligence artificielle (IA)</li>
 <li>Mot valise dont la définition change selon l’interlocuteur</li>
 <li>Identifier les opportunités pour l’INSEE, et les enjeux associés</li>
 </ul>
 </section>
-
-<section id="un-contour-mal-défini" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
-<h1>Un contour mal défini :</h1>
+<section id="un-contour-mal-défini" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Un contour mal défini :</h2>
 <ul>
 <li>IA intelligence artificielle, pourrait regrouper :
 <ul>
-<li>l’ensemble des traitements ayant pour but d’automatiser des processus</li>
-<li>des méthodes statistiques plus poussées -&gt; économétrie, méthodes d’apprentissages statistiques</li>
-<li>Les méthodes d’apprentissage profond -&gt; Deep Learning</li>
-<li>Arrivée récente des {<strong>Large Language Models(LLM)</strong>]{.orange} a révolutionné le concept</li>
+<li>l’ensemble des traitements ayant pour but d’<span class="blue2"><strong>automatiser</strong></span> des processus</li>
+<li>des méthodes statistiques plus poussées -&gt; économétrie, méthodes d’<span class="blue2"><strong>apprentissages statistiques</strong></span></li>
+<li>Les méthodes d’apprentissage profond -&gt; <span class="orange"><strong>Deep Learning</strong></span></li>
+<li>Arrivée récente des <span class="orange"><strong>Large Language Models(LLM)</strong></span> a révolutionné le concept</li>
 </ul></li>
 </ul>
 </section>
+<section id="un-contour-mal-défini-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Un contour mal défini :</h2>
 
-<section id="un-contour-mal-défini-1" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
-<h1>Un contour mal défini :</h1>
-<ul>
-<li><div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../img/IA_concentrique.png"></p>
-<figcaption>image</figcaption>
-</figure>
-</div></li>
+<img data-src="../img/IA_concentrique.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
+<li>Où commence la notion d’<span class="blue2"><strong>IA</strong></span> ?</li>
 </ul>
 </section>
+<section id="lapprentissage-statistique" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>L’apprentissage statistique :</h2>
 
-<section id="lapprentissage-statistique" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
-<h1>L’apprentissage statistique :</h1>
-<ul>
-<li><div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../img/cadre_general_apprentissage.png"></p>
-<figcaption>image</figcaption>
-</figure>
-</div></li>
-<li>Pour apprendre il faut des exemples !</li>
+<img data-src="../img/cadre_general_apprentissage.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
+<li>Pour apprendre il faut des <span class="blue2"><strong>exemples</strong></span>!</li>
 </ul>
 </section>
-
-<section>
-<section id="section" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
-<h1></h1>
+<section id="exemple-de-données" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Exemple de données :</h2>
 <ul>
-<li><span class="orange"><strong>texte en orange</strong></span></li>
-<li><span class="blue2">*text en bleu**</span></li>
+<li>Des images, des textes, des sons, des vidéos, des données structurées, des données non structurées</li>
 </ul>
 </section>
-<section id="section-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2></h2>
+<section id="exemple-de-processus-autmatisés" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Exemple de processus autmatisés</h2>
+<ul>
+<li>C’est l’occasion de présenter des travaux d’automatisation menés par le SES</li>
+</ul>
 </section></section>
+<section>
 <section id="plan-de-la-présentation-1" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
 <h1>Plan de la présentation</h1>
 <p>1️⃣ Introduction</p>
-<p><strong>2️⃣ Méthodologie</strong></p>
-<p>3️⃣ Les données</p>
-<p>4️⃣ Résultats obtenus</p>
-<p>5️⃣ Structure du projet</p>
+<p>2️⃣ <strong>Les LLMS</strong></p>
+<p>4️⃣ Opportunités pour l’INSEE</p>
+<p>5️⃣ Quelques exemples</p>
 <p>6️⃣ Discussion</p>
+</section>
+<section id="breve-explication" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Breve explication</h2>
+<ul>
+<li>LLM</li>
+<li>Une autre façon de voir : compression d’un grand nombre d’informations dans une machine qui la redistribue sur demande</li>
+</ul>
+</section>
+<section id="llm-et-confidentialité" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>LLM et confidentialité</h2>
 
-<div class="quarto-auto-generated-content">
+<img data-src="../img/llm_cadre_general.png" class="center r-stretch" style="width:75.0%"></section>
+<section id="llm-et-confidentialité-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>LLM et confidentialité</h2>
+
+<img data-src="../img/llm_confidentialite.png" class="center r-stretch" style="width:75.0%"><ul>
+<li>Attention à la confidentialité des données !</li>
+</ul>
+</section>
+<section id="llm-et-confidentialité-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>LLM et confidentialité</h2>
+
+<img data-src="../img/llm_cadre_confidentialite_insee.png" class="center r-stretch" style="width:75.0%"><ul>
+<li>les LLMS peuvent être hébergés <span class="orange">localement</span> mais nécessitent de l’espace et de la puissance de calcul</li>
+</ul>
+</section>
+<section id="notion-dembeddings" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Notion d’embeddings:</h2>
+
+<img data-src="../img/embeddings.png" class="center r-stretch" style="width:75.0%"><ul>
+<li>La proximité dans l’espace est une proximité sémantique !</li>
+</ul>
+</section>
+<section id="base-vectorielle" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Base vectorielle:</h2>
+
+<img data-src="../img/base_vectorielle.png" class="center r-stretch" style="width:75.0%"></section>
+<section id="rag" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>RAG :</h2>
+<ul>
+<li>Retrieval Augmented Generation <img data-src="../img/RAG.png" class="center" style="width:75.0%"></li>
+</ul>
+</section>
+<section id="un-exemple-dutilisation-boutade" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Un exemple d’utilisation (BoutadE):</h2>
+
+<img data-src="../img/boutade.png" class="center r-stretch" style="width:75.0%"></section></section>
+<section>
+<section id="plan-de-la-présentation-2" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
+<h1>Plan de la présentation</h1>
+<p>1️⃣ Introduction</p>
+<p>2️⃣ Les LLMS</p>
+<p>4️⃣ <strong>Opportunités pour l’INSEE</strong></p>
+<p>5️⃣ Quelques exemples</p>
+<p>6️⃣ Discussion</p>
+</section>
+<section id="lexemple-des-plans-de-collecte" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>L’exemple des plans de collecte</h2>
+
+<img data-src="../img/plan_de_collecte_reel.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
+<li>Simple en apparence, un point sur une carte pour repérer le logement</li>
+</ul>
+</section>
+<section id="lexemple-des-plans-de-collecte-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>L’exemple des plans de collecte</h2>
+
+<img data-src="../img/plan_de_collecte.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
+<li>La production des plans repose sur de nombreuses sources de données</li>
+</ul>
+</section>
+<section id="les-plans-de-collecte-du-rp" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Les plans de collecte du RP</h2>
+
+<img data-src="../img/NO_ZOOM.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
+<li>illisible en l’état</li>
+</ul>
+</section>
+<section id="les-plans-de-collecte-du-rp-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Les plans de collecte du RP</h2>
+
+<img data-src="../img/ZOOM_1.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
+<section id="les-plans-de-collecte-du-rp-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Les plans de collecte du RP</h2>
+
+<img data-src="../img/ZOOM_2.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
+<section id="les-plans-de-collecte-du-rp-3" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Les plans de collecte du RP</h2>
+
+<img data-src="../img/ZOOM_4.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
+<section id="les-plans-de-collecte-du-rp-4" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Les plans de collecte du RP</h2>
+
+<img data-src="../img/ZOOM_3.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
+<section id="les-plans-de-collecte-du-rp-5" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Les plans de collecte du RP</h2>
+
+<img data-src="../img/zoom_schema.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
+<section id="les-plans-de-collecte-du-rp-6" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Les plans de collecte du RP</h2>
+
+
+<img data-src="../img/zoom_schema_2.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
 </div>
 </div>
-</section>
+</section></section>
     </div>
   </div>
 

@@ -1,5 +1,166 @@
 [
   {
+    "objectID": "src/IA/index.html#introduction-1",
+    "href": "src/IA/index.html#introduction-1",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Introduction",
+    "text": "Introduction\n\nBeaucoup de “hype” autour de l’intelligence artificielle (IA)\nMot valise dont la définition change selon l’interlocuteur\nIdentifier les opportunités pour l’INSEE, et les enjeux associés"
+  },
+  {
+    "objectID": "src/IA/index.html#un-contour-mal-défini",
+    "href": "src/IA/index.html#un-contour-mal-défini",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Un contour mal défini :",
+    "text": "Un contour mal défini :\n\nIA intelligence artificielle, pourrait regrouper :\n\nl’ensemble des traitements ayant pour but d’automatiser des processus\ndes méthodes statistiques plus poussées -&gt; économétrie, méthodes d’apprentissages statistiques\nLes méthodes d’apprentissage profond -&gt; Deep Learning\nArrivée récente des Large Language Models(LLM) a révolutionné le concept"
+  },
+  {
+    "objectID": "src/IA/index.html#un-contour-mal-défini-1",
+    "href": "src/IA/index.html#un-contour-mal-défini-1",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Un contour mal défini :",
+    "text": "Un contour mal défini :\n\n\nOù commence la notion d’IA ?"
+  },
+  {
+    "objectID": "src/IA/index.html#lapprentissage-statistique",
+    "href": "src/IA/index.html#lapprentissage-statistique",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "L’apprentissage statistique :",
+    "text": "L’apprentissage statistique :\n\n\nPour apprendre il faut des exemples!"
+  },
+  {
+    "objectID": "src/IA/index.html#exemple-de-données",
+    "href": "src/IA/index.html#exemple-de-données",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Exemple de données :",
+    "text": "Exemple de données :\n\nDes images, des textes, des sons, des vidéos, des données structurées, des données non structurées"
+  },
+  {
+    "objectID": "src/IA/index.html#exemple-de-processus-autmatisés",
+    "href": "src/IA/index.html#exemple-de-processus-autmatisés",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Exemple de processus autmatisés",
+    "text": "Exemple de processus autmatisés\n\nC’est l’occasion de présenter des travaux d’automatisation menés par le SES"
+  },
+  {
+    "objectID": "src/IA/index.html#breve-explication",
+    "href": "src/IA/index.html#breve-explication",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Breve explication",
+    "text": "Breve explication\n\nLLM\nUne autre façon de voir : compression d’un grand nombre d’informations dans une machine qui la redistribue sur demande"
+  },
+  {
+    "objectID": "src/IA/index.html#llm-et-confidentialité",
+    "href": "src/IA/index.html#llm-et-confidentialité",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "LLM et confidentialité",
+    "text": "LLM et confidentialité"
+  },
+  {
+    "objectID": "src/IA/index.html#llm-et-confidentialité-1",
+    "href": "src/IA/index.html#llm-et-confidentialité-1",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "LLM et confidentialité",
+    "text": "LLM et confidentialité\n\n\nAttention à la confidentialité des données !"
+  },
+  {
+    "objectID": "src/IA/index.html#llm-et-confidentialité-2",
+    "href": "src/IA/index.html#llm-et-confidentialité-2",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "LLM et confidentialité",
+    "text": "LLM et confidentialité\n\n\nles LLMS peuvent être hébergés localement mais nécessitent de l’espace et de la puissance de calcul"
+  },
+  {
+    "objectID": "src/IA/index.html#notion-dembeddings",
+    "href": "src/IA/index.html#notion-dembeddings",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Notion d’embeddings:",
+    "text": "Notion d’embeddings:\n\n\nLa proximité dans l’espace est une proximité sémantique !"
+  },
+  {
+    "objectID": "src/IA/index.html#base-vectorielle",
+    "href": "src/IA/index.html#base-vectorielle",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Base vectorielle:",
+    "text": "Base vectorielle:"
+  },
+  {
+    "objectID": "src/IA/index.html#rag",
+    "href": "src/IA/index.html#rag",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "RAG :",
+    "text": "RAG :\n\nRetrieval Augmented Generation"
+  },
+  {
+    "objectID": "src/IA/index.html#un-exemple-dutilisation-boutade",
+    "href": "src/IA/index.html#un-exemple-dutilisation-boutade",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Un exemple d’utilisation (BoutadE):",
+    "text": "Un exemple d’utilisation (BoutadE):"
+  },
+  {
+    "objectID": "src/IA/index.html#lexemple-des-plans-de-collecte",
+    "href": "src/IA/index.html#lexemple-des-plans-de-collecte",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "L’exemple des plans de collecte",
+    "text": "L’exemple des plans de collecte\n\n\nSimple en apparence, un point sur une carte pour repérer le logement"
+  },
+  {
+    "objectID": "src/IA/index.html#lexemple-des-plans-de-collecte-1",
+    "href": "src/IA/index.html#lexemple-des-plans-de-collecte-1",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "L’exemple des plans de collecte",
+    "text": "L’exemple des plans de collecte\n\n\nLa production des plans repose sur de nombreuses sources de données"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP\n\n\nillisible en l’état"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-1",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-1",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-2",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-2",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-3",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-3",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-4",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-4",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-5",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-5",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-6",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-6",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Présentation SES Dirag",
