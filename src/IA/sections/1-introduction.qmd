@@ -4,28 +4,19 @@ title: "Introduction"
 
 # Introduction
 
-L'Intelligence Artificielle (IA) représente aujourd'hui un enjeu majeur pour la modernisation de l'action publique. Cette technologie, qui connaît des avancées spectaculaires, offre de nouvelles opportunités pour améliorer l'efficacité des services publics et la relation avec les citoyens.
+- Beaucoup de "hype" autour de l'IA
+- Objectif : debroussailler le terrain
+- 
 
+# Des définitions : 
+- IA intelligence artificielle
+- deep learning 
+
+- [**La résolution spatiale**]{.orange}
+- [**La fréquence d'acquisition**]{.blue2}
 ## Contexte et enjeux
 
-La fonction publique fait face à plusieurs défis :
+![logoBoutaDE](../img/logo_boutade.png){fig-align="center" width=75%}
 
-- L'optimisation des ressources et des processus
-- L'amélioration de la qualité des services aux usagers
-- La gestion et l'analyse de volumes croissants de données
-- L'adaptation aux nouvelles attentes des citoyens
 
-L'IA apparaît comme un levier prometteur pour répondre à ces enjeux, tout en soulevant des questions importantes :
-
-- Éthiques : protection des données, transparence des algorithmes
-- Organisationnelles : évolution des métiers, formation des agents
-- Techniques : infrastructure, sécurité, interopérabilité
-
-## Opportunités pour le service public
-
-L'IA peut contribuer à :
-
-- Automatiser les tâches répétitives
-- Améliorer la prise de décision grâce à l'analyse de données
-- Personnaliser les services aux usagers
-- Anticiper les besoins et optimiser les ressources
+## Plan de la présn

@@ -8,7 +8,7 @@ author:  Clément Guillo
 slides:
   text: Slides
   url: src/IA/index.html
-order: 2
+order: 1
 lang: fr-FR
 ---
 
