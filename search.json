@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "src/IA/index.html#contexte-et-enjeux",
+    "href": "src/IA/index.html#contexte-et-enjeux",
+    "title": "Introduction",
+    "section": "Contexte et enjeux",
+    "text": "Contexte et enjeux\nLa fonction publique fait face à plusieurs défis :\n\nL’optimisation des ressources et des processus\nL’amélioration de la qualité des services aux usagers\nLa gestion et l’analyse de volumes croissants de données\nL’adaptation aux nouvelles attentes des citoyens\n\nL’IA apparaît comme un levier prometteur pour répondre à ces enjeux, tout en soulevant des questions importantes :\n\nÉthiques : protection des données, transparence des algorithmes\nOrganisationnelles : évolution des métiers, formation des agents\nTechniques : infrastructure, sécurité, interopérabilité"
+  },
+  {
+    "objectID": "src/IA/index.html#opportunités-pour-le-service-public",
+    "href": "src/IA/index.html#opportunités-pour-le-service-public",
+    "title": "Introduction",
+    "section": "Opportunités pour le service public",
+    "text": "Opportunités pour le service public\nL’IA peut contribuer à :\n\nAutomatiser les tâches répétitives\nAméliorer la prise de décision grâce à l’analyse de données\nPersonnaliser les services aux usagers\nAnticiper les besoins et optimiser les ressources"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Présentation SES Dirag",
