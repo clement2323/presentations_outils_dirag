@@ -1,0 +1,56 @@
+---
+title: "IA et ses usages (potentiels) à l'INSEE"
+subtitle: |
+  **Clément Guillo**
+date: "24/02/2024"
+date-format: "DD MMMM YYYY"
+slide-number: true
+lang: fr-FR
+slide-tone: false
+chalkboard: 
+  theme: whiteboard
+format:
+  onyxia-revealjs:
+    output-file: index.html
+controls: true
+css: ../custom.css
+ascii: true
+---
+
+# Bienvenue
+
+Ce site présente notre travail sur l'automatisation dans les études.
+
+
+# Plan de la présentation
+
+1️⃣ Introduction
+
+2️⃣ Méthodologie
+
+3️⃣ Les données 
+
+4️⃣ Résultats obtenus
+
+5️⃣ Structure du projet
+
+6️⃣ Discussion
+
+
+# 1️⃣ Introduction
+
+{{< include sections/1-introduction.qmd >}}
+
+# Plan de la présentation
+
+1️⃣ Introduction
+
+**2️⃣ Méthodologie**
+
+3️⃣ Les données 
+
+4️⃣ Résultats obtenus
+
+5️⃣ Structure du projet
+
+6️⃣ Discussion

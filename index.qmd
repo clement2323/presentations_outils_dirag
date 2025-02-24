@@ -1,29 +1,17 @@
 ---
-title: "Automatisation dans les études"
-subtitle: |
-  **Valentine Chieze, Clément Guillo**
-date: "11/13/2024"
-date-format: "D MMMM YYYY"
-slide-number: true
-# uncomment for French presentations:
-lang: fr-FR
-# for blind readers:
-slide-tone: false
-chalkboard: # press the B key to toggle chalkboard
-  theme: whiteboard
-# uncomment to use the multiplex mode:
-# multiplex: true
-format:
-  onyxia-revealjs:
-    output-file: index.html
-controls: true
-css: ../custom.css
-ascii: true
+listing:
+  id: presentations
+  contents: cards
+  sort: "order asc"
+  categories: false
+  template: style/listing-grid.ejs
+sidebar: false
+page-layout: full
+toc: false
 ---
 
-# Bienvenue
+## Présentations des outils produits par le SES
 
-Ce site présente notre travail sur l'automatisation dans les études.
 
-{{< include introduction.qmd >}}
-{{< include section1.qmd >}}
+::: {#presentations}
+:::

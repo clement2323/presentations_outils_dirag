@@ -1,0 +1,12 @@
+---
+title: Document de travail
+image: img/IA.jpeg
+date: "2025-02-26"
+description: |
+  <b>Description :</b> L'IA et ses usages
+author:  Clément Guillo
+slides:
+  text: Slides
+  url: src/IA/index.html
+order: 2
+lang: fr-FR

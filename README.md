@@ -1,3 +1,7 @@
 # Ensemble des présentations des outils pour la DIRAG :
 
-- contient la présentation de BoutaDE + Conjonctivite
+# TO DO :
+- présentation carto, données satellites -> zoom RP etc..
+- présentation IA -> enchainée, parler d'automatisation structuration puis IA
+- outil gestion, données etc..
+- eco systeme insee datalab  LS3
