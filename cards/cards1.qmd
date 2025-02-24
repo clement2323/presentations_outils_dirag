@@ -10,3 +10,5 @@ slides:
   url: src/IA/index.html
 order: 2
 lang: fr-FR
+---
+
