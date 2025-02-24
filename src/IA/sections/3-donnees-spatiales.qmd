@@ -43,3 +43,21 @@
 ## Les plans de collecte du RP
 
 ![](../img/zoom_schema_2.png){width=75% fig-align="center"}
+
+
+
+
+## Algorithmes de détection du bâti
+
+![](../img/sentinel2_exemple.png){width=75% fig-align="center"}
+
+
+## Algorithmes de détection du bâti
+
+![](../img/pleiade.png){width=75% fig-align="center"}
+
+
+## Algorithmes de détection du bâti
+
+![](../img/strategie_segmentation.png){width=75% fig-align="center"}
+
