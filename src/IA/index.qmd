@@ -25,15 +25,10 @@ Ce site présente notre travail sur l'automatisation dans les études.
 # Plan de la présentation
 
 1️⃣ Introduction
-
-2️⃣ Méthodologie
-
-3️⃣ Les données 
-
-4️⃣ Résultats obtenus
-
-5️⃣ Structure du projet
-
+2️⃣ Définition de l'IA
+3️⃣ Les LLMS
+4️⃣ Opportunités pour l'INSEE
+5️⃣ Quelques exemples
 6️⃣ Discussion
 
 

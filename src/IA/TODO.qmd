@@ -1,0 +1,20 @@
+# Parler de cursor et d'outils d'aide au développement
+
+# Quelques exemples : 
+
+# Travaux réalisés par le SES :
+
+## bonnes prédictions => bonnes données
+## traitement automatique des données => nécessite des données bien structurées,et avec une forme de stabilité dans le temps
+
+
+
+## Quelques projets SES :
+
+- zoom automatique du RP 
+- presentation des ecosystemes datalab AUS etc..
+
+gitlab CI/CD
+
+# Montrer des exmples IA
+# Montrer des exemples hors IA

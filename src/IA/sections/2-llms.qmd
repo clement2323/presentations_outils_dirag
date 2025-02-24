@@ -1,0 +1,13 @@
+---
+title: "Les LLMS : Large LAnguage models"
+---
+
+# Breve explication
+
+- LLM : 
+- 
+
+
+# RAG : 
+
+- Retrieval Augmented Generation

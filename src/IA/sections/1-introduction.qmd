@@ -4,19 +4,34 @@ title: "Introduction"
 
 # Introduction
 
-- Beaucoup de "hype" autour de l'IA
-- Objectif : debroussailler le terrain
-- 
+- Beaucoup de "hype" autour de l'intelligence artificielle
+- Mot valise dont la définition change selon l'interlocuteur
+- Identifier les opportunités pour l'INSEE, et les enjeux associés
 
-# Des définitions : 
-- IA intelligence artificielle
-- deep learning 
+# Un contour mal défini : 
 
-- [**La résolution spatiale**]{.orange}
-- [**La fréquence d'acquisition**]{.blue2}
-## Contexte et enjeux
-
-![logoBoutaDE](../img/logo_boutade.png){fig-align="center" width=75%}
+- IA intelligence artificielle, pourrait regrouper :
+    - l'ensemble des traitements ayant pour but d'automatiser des processus
+    - des méthodes statistiques plus poussées -> économétrie, méthodes d'apprentissages statistiques
+    - Les méthodes d'apprentissage profond -> Deep Learning 
+    - Arrivée récente des {**Large Language Models(LLM)**]{.orange} a révolutionné le concept
 
 
-## Plan de la présn
+# Un contour mal défini : 
+
+- ![image](../img/IA_concentrique.png)
+
+# L'apprentissage statistique : 
+
+- ![image](../img/cadre_general_apprentissage.png)
+- Pour apprendre il faut des exemples !
+
+
+
+#
+- [**texte en orange**]{.orange}
+- [*text en bleu**]{.blue2}
+
+
+
+## 
