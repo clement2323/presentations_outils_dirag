@@ -1,37 +1,32 @@
----
-title: "Introduction"
----
+## Introduction
 
-# Introduction
-
-- Beaucoup de "hype" autour de l'intelligence artificielle
+- Beaucoup de "hype" autour de l'intelligence artificielle (IA)
 - Mot valise dont la définition change selon l'interlocuteur
 - Identifier les opportunités pour l'INSEE, et les enjeux associés
 
-# Un contour mal défini : 
+## Un contour mal défini : 
 
 - IA intelligence artificielle, pourrait regrouper :
-    - l'ensemble des traitements ayant pour but d'automatiser des processus
-    - des méthodes statistiques plus poussées -> économétrie, méthodes d'apprentissages statistiques
-    - Les méthodes d'apprentissage profond -> Deep Learning 
-    - Arrivée récente des {**Large Language Models(LLM)**]{.orange} a révolutionné le concept
+    - l'ensemble des traitements ayant pour but d'[**automatiser**]{.blue2} des processus
+    - des méthodes statistiques plus poussées -> économétrie, méthodes d'[**apprentissages statistiques**]{.blue2}
+    - Les méthodes d'apprentissage profond ->  [**Deep Learning**]{.orange} 
+    - Arrivée récente des [**Large Language Models(LLM)**]{.orange} a révolutionné le concept
 
+## Un contour mal défini : 
 
-# Un contour mal défini : 
+![](../img/IA_concentrique.png){width=75% fig-align="center"}
 
-- ![image](../img/IA_concentrique.png)
+- Où commence la notion d'[**IA**]{.blue2} ?
 
-# L'apprentissage statistique : 
+## L'apprentissage statistique : 
 
-- ![image](../img/cadre_general_apprentissage.png)
-- Pour apprendre il faut des exemples !
+![](../img/cadre_general_apprentissage.png){width=75% fig-align="center"}
 
+- Pour apprendre il faut des [**exemples**]{.blue2}!
 
+## Exemple de données : 
+- Des images, des textes, des sons, des vidéos, des données structurées, des données non structurées
 
-#
-- [**texte en orange**]{.orange}
-- [*text en bleu**]{.blue2}
-
-
-
-## 
+## Exemple de processus autmatisés
+- C'est l'occasion de présenter des travaux d'automatisation 
+menés par le SES 

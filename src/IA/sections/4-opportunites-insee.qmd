@@ -1,19 +1,17 @@
----
-title: "Opportunités pour l'INSEE"
----
-
 # Les Gains potentiels
 
-- Gains de temps potentiels 
+- Gains de temps potentiels et déjà observés
 - documentation
 - automatisation des tâches redondantes -> SIREN
 - jusqu'à l'écriture d'une étude !!
-
-
+- le code etc.. données sarellites
 
 # Transformations à venir 
 
 - Formations nécessaires
 - redéfinition des rôles
 
+- se mettre à jour être réactif
 
+
+# Une bonne organisation pour une bonne structure

@@ -24,13 +24,15 @@ Ce site présente notre travail sur l'automatisation dans les études.
 
 # Plan de la présentation
 
-1️⃣ Introduction
-2️⃣ Définition de l'IA
-3️⃣ Les LLMS
-4️⃣ Opportunités pour l'INSEE
-5️⃣ Quelques exemples
-6️⃣ Discussion
+1️⃣ Introduction 
 
+2️⃣  Les LLMS
+
+4️⃣ Opportunités pour l'INSEE
+
+5️⃣ Quelques exemples
+
+6️⃣ Discussion
 
 # 1️⃣ Introduction
 
@@ -38,14 +40,30 @@ Ce site présente notre travail sur l'automatisation dans les études.
 
 # Plan de la présentation
 
-1️⃣ Introduction
 
-**2️⃣ Méthodologie**
+1️⃣ Introduction 
 
-3️⃣ Les données 
+2️⃣ **Les LLMS**
 
-4️⃣ Résultats obtenus
+4️⃣ Opportunités pour l'INSEE
 
-5️⃣ Structure du projet
+5️⃣ Quelques exemples
 
 6️⃣ Discussion
+
+{{< include sections/2-llms.qmd >}}
+
+# Plan de la présentation
+
+
+1️⃣ Introduction 
+
+2️⃣ Les LLMS
+
+4️⃣ **Opportunités pour l'INSEE**
+
+5️⃣ Quelques exemples
+
+6️⃣ Discussion
+
+{{< include sections/3-donnees-spatiales.qmd >}}

@@ -1,9 +1,7 @@
 # Parler de cursor et d'outils d'aide au développement
 
 # Quelques exemples : 
-
 # Travaux réalisés par le SES :
-
 ## bonnes prédictions => bonnes données
 ## traitement automatique des données => nécessite des données bien structurées,et avec une forme de stabilité dans le temps
 
@@ -13,6 +11,7 @@
 
 - zoom automatique du RP 
 - presentation des ecosystemes datalab AUS etc..
+- reconnaissance texte image
 
 gitlab CI/CD
 

@@ -1,0 +1,45 @@
+## L'exemple des plans de collecte
+
+![](../img/plan_de_collecte_reel.png){width=75% fig-align="center"}
+
+- Simple en apparence, un point sur une carte pour repérer le logement
+
+## L'exemple des plans de collecte
+
+![](../img/plan_de_collecte.png){width=75% fig-align="center"}
+
+- La production des plans repose sur de nombreuses sources de données
+
+## Les plans de collecte du RP
+
+![](../img/NO_ZOOM.png){width=75% fig-align="center"}
+
+- illisible en l'état
+
+## Les plans de collecte du RP
+
+![](../img/ZOOM_1.png){width=75% fig-align="center"}
+
+
+## Les plans de collecte du RP
+
+![](../img/ZOOM_2.png){width=75% fig-align="center"}
+
+
+## Les plans de collecte du RP
+
+![](../img/ZOOM_4.png){width=75% fig-align="center"}
+
+## Les plans de collecte du RP
+
+![](../img/ZOOM_3.png){width=75% fig-align="center"}
+
+
+## Les plans de collecte du RP
+
+![](../img/zoom_schema.png){width=75% fig-align="center"}
+
+
+## Les plans de collecte du RP
+
+![](../img/zoom_schema_2.png){width=75% fig-align="center"}
