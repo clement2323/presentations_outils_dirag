@@ -11,7 +11,7 @@
     "href": "src/IA/index.html#un-contour-mal-défini",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Un contour mal défini :",
-    "text": "Un contour mal défini :\n\nIA intelligence artificielle, pourrait regrouper :\n\nl’ensemble des traitements ayant pour but d’automatiser des processus\ndes méthodes statistiques plus poussées -&gt; économétrie, méthodes d’apprentissages statistiques\nLes méthodes d’apprentissage profond -&gt; Deep Learning\nArrivée récente des Large Language Models(LLM) a révolutionné le concept"
+    "text": "Un contour mal défini :\n\nIA intelligence artificielle, pourrait regrouper :\n\nl’ensemble des traitements ayant pour but d’automatiser des processus\ndes méthodes statistiques plus poussées → économétrie, méthodes d’apprentissage statistique\nLes méthodes d’apprentissage profond → Deep Learning\nArrivée récente des Large Language Models (LLM) a ouvert l’IA au grand public"
   },
   {
     "objectID": "src/IA/index.html#un-contour-mal-défini-1",
@@ -25,21 +25,126 @@
     "href": "src/IA/index.html#lapprentissage-statistique",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "L’apprentissage statistique :",
-    "text": "L’apprentissage statistique :\n\n\nPour apprendre il faut des exemples!"
+    "text": "L’apprentissage statistique :\n\n\nPour apprendre il faut des exemples!\nDes images, des textes, des sons, des vidéos, des données structurées, des données non structurées"
   },
   {
-    "objectID": "src/IA/index.html#exemple-de-données",
-    "href": "src/IA/index.html#exemple-de-données",
+    "objectID": "src/IA/index.html#objectif-de-la-présentation",
+    "href": "src/IA/index.html#objectif-de-la-présentation",
     "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Exemple de données :",
-    "text": "Exemple de données :\n\nDes images, des textes, des sons, des vidéos, des données structurées, des données non structurées"
+    "section": "Objectif de la présentation",
+    "text": "Objectif de la présentation\n\nPrésenter les travaux techniques menés par le SES\nEn différenciant bien l’automatisation, de la partie IA / l’apprentissage statistique"
   },
   {
-    "objectID": "src/IA/index.html#exemple-de-processus-autmatisés",
-    "href": "src/IA/index.html#exemple-de-processus-autmatisés",
+    "objectID": "src/IA/index.html#lexemple-des-plans-de-collecte",
+    "href": "src/IA/index.html#lexemple-des-plans-de-collecte",
     "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Exemple de processus autmatisés",
-    "text": "Exemple de processus autmatisés\n\nC’est l’occasion de présenter des travaux d’automatisation menés par le SES"
+    "section": "L’exemple des plans de collecte",
+    "text": "L’exemple des plans de collecte\n\n\nSimple en apparence, un point sur une carte pour repérer le logement"
+  },
+  {
+    "objectID": "src/IA/index.html#lexemple-des-plans-de-collecte-1",
+    "href": "src/IA/index.html#lexemple-des-plans-de-collecte-1",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "L’exemple des plans de collecte",
+    "text": "L’exemple des plans de collecte\n\n\nLa production des plans repose sur de nombreuses sources de données"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP\n\n\nillisible en l’état"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-1",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-1",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-2",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-2",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP\n\n\nUn plan de collecte par groupe !"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-3",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-3",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-4",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-4",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-5",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-5",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP"
+  },
+  {
+    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-6",
+    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-6",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les plans de collecte du RP",
+    "text": "Les plans de collecte du RP"
+  },
+  {
+    "objectID": "src/IA/index.html#algorithmes-de-détection-du-bâti",
+    "href": "src/IA/index.html#algorithmes-de-détection-du-bâti",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Algorithmes de détection du bâti",
+    "text": "Algorithmes de détection du bâti\n\nLes données satellites sont une source d’image non conventionnelle\nMéritent d’etre analysées pour aider au Recensement de la Population\nTempête Chido à Mayotte, critiques des élus"
+  },
+  {
+    "objectID": "src/IA/index.html#algorithmes-de-détection-du-bâti-1",
+    "href": "src/IA/index.html#algorithmes-de-détection-du-bâti-1",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Algorithmes de détection du bâti",
+    "text": "Algorithmes de détection du bâti"
+  },
+  {
+    "objectID": "src/IA/index.html#algorithmes-de-détection-du-bâti-2",
+    "href": "src/IA/index.html#algorithmes-de-détection-du-bâti-2",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Algorithmes de détection du bâti",
+    "text": "Algorithmes de détection du bâti"
+  },
+  {
+    "objectID": "src/IA/index.html#quelles-données-en-entrée",
+    "href": "src/IA/index.html#quelles-données-en-entrée",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Quelles données en entrée ?",
+    "text": "Quelles données en entrée ?\n\nPour [entraîner] le modèle, il nous faut des images et des annotations associées\nLe projet Cosia nous donne ces annotations pour une année donnée"
+  },
+  {
+    "objectID": "src/IA/index.html#quelques-liens",
+    "href": "src/IA/index.html#quelques-liens",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Quelques liens",
+    "text": "Quelques liens\n\nLien vers l’application présentatn les derniers résultats\nLien vers la bdocumentation du projet"
+  },
+  {
+    "objectID": "src/IA/index.html#ce-quil-reste-à-faire",
+    "href": "src/IA/index.html#ce-quil-reste-à-faire",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Ce qu’il reste à faire",
+    "text": "Ce qu’il reste à faire\n\npérenniser le processus d’obtention des images pour pérenniser les outils\ngérer la transition RIL / Base adresse nationale\ntravaux de qualité sur la source fiscale (Résil DROM)\nse mettre à jour ! : de nouveaux modèles émanent de la littérature très fréquemment"
+  },
+  {
+    "objectID": "src/IA/index.html#lia-dans-tout-ça",
+    "href": "src/IA/index.html#lia-dans-tout-ça",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "L’IA dans tout ça ? :",
+    "text": "L’IA dans tout ça ? :\n\nLa méthode de Zoom des plans de collecte est de l’ordre de l’automatisation, mais utilise une méthode des k plus proches voisins pour regrouper les points qui sont proches\nLes algorithmes de Segmentation utilisés ici sont appelés des “SegFormer” et fond partis des “Vision Models” → Structure très proche des transformers"
   },
   {
     "objectID": "src/IA/index.html#breve-explication",
@@ -91,108 +196,45 @@
     "text": "RAG :\n\nRetrieval Augmented Generation"
   },
   {
-    "objectID": "src/IA/index.html#un-exemple-dutilisation-boutade",
-    "href": "src/IA/index.html#un-exemple-dutilisation-boutade",
+    "objectID": "src/IA/index.html#un-exemple-de-rag-particulier-boutade",
+    "href": "src/IA/index.html#un-exemple-de-rag-particulier-boutade",
     "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Un exemple d’utilisation (BoutadE):",
-    "text": "Un exemple d’utilisation (BoutadE):"
+    "section": "Un exemple de RAG particulier (BoutadE):",
+    "text": "Un exemple de RAG particulier (BoutadE):\n\nConstat : beaucoup de redondance dans les codes de production de tableaux et graphiques\nOr un tableau ou graphique est basé sur des éléments simples:\n\nun titre\ndes variables de croisement (sexe, CSP..)\ndes variables quantitatives (Revenu, nb enfants)\nune fonction agregeante (somme, moyenne..)\n\nHautement automatisable"
   },
   {
-    "objectID": "src/IA/index.html#lexemple-des-plans-de-collecte",
-    "href": "src/IA/index.html#lexemple-des-plans-de-collecte",
+    "objectID": "src/IA/index.html#un-exemple-de-rag-particulier-boutade-1",
+    "href": "src/IA/index.html#un-exemple-de-rag-particulier-boutade-1",
     "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "L’exemple des plans de collecte",
-    "text": "L’exemple des plans de collecte\n\n\nSimple en apparence, un point sur une carte pour repérer le logement"
+    "section": "Un exemple de RAG particulier (BoutadE):",
+    "text": "Un exemple de RAG particulier (BoutadE):\n\nidée : créer une machine qui prend en entrée les éléments mentionnés et qui renvoit l’output"
   },
   {
-    "objectID": "src/IA/index.html#lexemple-des-plans-de-collecte-1",
-    "href": "src/IA/index.html#lexemple-des-plans-de-collecte-1",
+    "objectID": "src/IA/index.html#un-autre-cas-site-de-linsee-.fr",
+    "href": "src/IA/index.html#un-autre-cas-site-de-linsee-.fr",
     "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "L’exemple des plans de collecte",
-    "text": "L’exemple des plans de collecte\n\n\nLa production des plans repose sur de nombreuses sources de données"
+    "section": "Un autre cas site de l’INSEE .fr",
+    "text": "Un autre cas site de l’INSEE .fr"
   },
   {
-    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp",
-    "href": "src/IA/index.html#les-plans-de-collecte-du-rp",
+    "objectID": "src/IA/index.html#que-retenir-de-tout-ça",
+    "href": "src/IA/index.html#que-retenir-de-tout-ça",
     "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Les plans de collecte du RP",
-    "text": "Les plans de collecte du RP\n\n\nillisible en l’état"
-  },
-  {
-    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-1",
-    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-1",
-    "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Les plans de collecte du RP",
-    "text": "Les plans de collecte du RP"
-  },
-  {
-    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-2",
-    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-2",
-    "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Les plans de collecte du RP",
-    "text": "Les plans de collecte du RP"
-  },
-  {
-    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-3",
-    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-3",
-    "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Les plans de collecte du RP",
-    "text": "Les plans de collecte du RP"
-  },
-  {
-    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-4",
-    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-4",
-    "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Les plans de collecte du RP",
-    "text": "Les plans de collecte du RP"
-  },
-  {
-    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-5",
-    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-5",
-    "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Les plans de collecte du RP",
-    "text": "Les plans de collecte du RP"
-  },
-  {
-    "objectID": "src/IA/index.html#les-plans-de-collecte-du-rp-6",
-    "href": "src/IA/index.html#les-plans-de-collecte-du-rp-6",
-    "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Les plans de collecte du RP",
-    "text": "Les plans de collecte du RP"
-  },
-  {
-    "objectID": "src/IA/index.html#algorithmes-de-détection-du-bâti",
-    "href": "src/IA/index.html#algorithmes-de-détection-du-bâti",
-    "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Algorithmes de détection du bâti",
-    "text": "Algorithmes de détection du bâti"
-  },
-  {
-    "objectID": "src/IA/index.html#algorithmes-de-détection-du-bâti-1",
-    "href": "src/IA/index.html#algorithmes-de-détection-du-bâti-1",
-    "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Algorithmes de détection du bâti",
-    "text": "Algorithmes de détection du bâti"
-  },
-  {
-    "objectID": "src/IA/index.html#algorithmes-de-détection-du-bâti-2",
-    "href": "src/IA/index.html#algorithmes-de-détection-du-bâti-2",
-    "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Algorithmes de détection du bâti",
-    "text": "Algorithmes de détection du bâti"
+    "section": "Que retenir de tout ça ?",
+    "text": "Que retenir de tout ça ?\n\nIl y a des opportunités pour l’INSEE et ses agents dans toutes les sphères"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Présentation SES Dirag",
     "section": "",
-    "text": "Description : L'IA et ses usages\n\n            \n\n            \n            \n              \n                Clément Guillo\n                Feb 26, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        Slides\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n\n\n\nNo matching items"
+    "text": "Description : L'IA et ses usages (potentiels) à l'INSEE\n\n            \n\n            \n            \n              \n                Clément Guillo\n                Feb 26, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        Slides\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n  \n     \n      \n        \n          \n            \n          \n         \n        \n          \n            \n            \n\n            \n              Description : Application web à destination des agents facilitant l'utilisation des résultats fournis par le modèle de segmentation.\n\n            \n\n            \n            \n              \n                \n                Feb 25, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        CraTT\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n  \n     \n      \n        \n          \n            \n          \n         \n        \n          \n            \n            \n\n            \n              Description : Package visant à automatiser la production des études statistiques descriptives\n\n            \n\n            \n            \n              \n                \n                Feb 25, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        BoutadE\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#présentations-des-outils-produits-par-le-ses",
     "href": "index.html#présentations-des-outils-produits-par-le-ses",
     "title": "Présentation SES Dirag",
     "section": "",
-    "text": "Description : L'IA et ses usages\n\n            \n\n            \n            \n              \n                Clément Guillo\n                Feb 26, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        Slides\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n\n\n\nNo matching items"
+    "text": "Description : L'IA et ses usages (potentiels) à l'INSEE\n\n            \n\n            \n            \n              \n                Clément Guillo\n                Feb 26, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        Slides\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n  \n     \n      \n        \n          \n            \n          \n         \n        \n          \n            \n            \n\n            \n              Description : Application web à destination des agents facilitant l'utilisation des résultats fournis par le modèle de segmentation.\n\n            \n\n            \n            \n              \n                \n                Feb 25, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        CraTT\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n  \n     \n      \n        \n          \n            \n          \n         \n        \n          \n            \n            \n\n            \n              Description : Package visant à automatiser la production des études statistiques descriptives\n\n            \n\n            \n            \n              \n                \n                Feb 25, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        BoutadE\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n\n\n\nNo matching items"
   }
 ]
