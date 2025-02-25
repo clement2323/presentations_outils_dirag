@@ -17,3 +17,4 @@ gitlab CI/CD
 
 # Montrer des exmples IA
 # Montrer des exemples hors IA
+# PArler de Hugging Face !!!

@@ -67,22 +67,27 @@
 ![](../img/strategie_segmentation.png){width=75% fig-align="center"}
 
 ## Quelles données en entrée ? 
-- Pour [**entraîner**] le modèle, il nous faut des images et des annotations associées
+- Pour [**entraîner**]{.orange} le modèle, il nous faut des images et des annotations associées
 - Le projet [Cosia](https://cosia.ign.fr/) nous donne ces annotations pour une année donnée
 
-## Quelques liens 
+::: {layout-ncol=2}
+![](../img/cosia.png){width=50% fig-align="center"}
 
-- [Lien vers l'application présentatn les derniers résultats](https://inseefrlab.github.io/satellite-images-webapp/)
-- [Lien vers la bdocumentation du projet](https://inseefrlab.github.io/satellite-images-webapp/)
+![](../img/image_cosia.png){width=50% fig-align="center"}
+:::
+
+## Quelques liens 
+- [Lien vers l'application présentant les derniers résultats](https://inseefrlab.github.io/satellite-images-webapp/)
+- [Lien vers la documentation du projet](https://inseefrlab.github.io/satellite-images-webapp/)
 
 ## Ce qu'il reste à faire
 
-- pérenniser le processus d'obtention des images pour [**pérenniser**]{.orange} les outils
+- pérenniser le processus d'obtention des images (geoserveur) pour [**pérenniser**]{.orange} les outils
 - gérer la transition RIL / Base adresse nationale
-- travaux de qualité sur la source fiscale (Résil DROM)
+- travaux de [**qualité**]{.orange} sur la source fiscale (Résil DROM)
 - [**se mettre à jour !**]{.blue2}  : de nouveaux modèles émanent de la littérature très fréquemment
 
 ## L'IA dans tout ça ? :
 
-- La méthode de Zoom des plans de collecte est de l'ordre de [**l'automatisation**]{.orange}, mais utilise une méthode des k plus proches voisins pour regrouper les points qui sont proches
-- Les algorithmes de Segmentation utilisés ici sont appelés des "SegFormer" et fond partis des "Vision Models" → Structure très proche des [**transformers**]{.blue2}
+- La méthode de Zoom des plans de collecte est de l'ordre de [**l'automatisation**]{.orange}, mais utilise une méthode des [**k plus proches voisins**]{.orange} pour regrouper les points qui sont proches
+- Les [**algorithmes de Segmentation**]{.orange} utilisés ici sont appelés des "SegFormer" et fond partis des "Vision Models" → Structure très proche des [**transformers**]{.blue2}

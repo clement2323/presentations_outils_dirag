@@ -1,5 +1,5 @@
 ---
-title: Application web
+title: Automatisation des études statistiques
 image: img/logo_boutade.jpg
 date: last-modified
 description: |

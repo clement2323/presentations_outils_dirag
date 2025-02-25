@@ -30,5 +30,6 @@
 
 - Présenter les travaux techniques menés par le SES
 - En [**différenciant**]{.orange} bien l'automatisation, de la partie IA / l'apprentissage statistique
-- présenter des intégrations de l'IA possibles dans les processus de l'INSEE (et donc dans l'ecosystème de l'INSEE)
-- discuter des opportunités pour l'INSEE et ses agents
+- Présenter des [**intégrations de l'IA**]{.blue2} possibles dans les processus de l'INSEE (et donc dans l'ecosystème de l'INSEE)
+- Discuter des [**opportunités pour l'INSEE et ses agents**]{.orange} 
+- Et donner des pistes pour identifier les processus pour lesquels [**l'automatisation peut s'avérer fructueuse**]{.blue2}

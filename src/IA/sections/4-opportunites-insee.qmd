@@ -2,6 +2,14 @@
 
 - Il y a des opportunités pour l'INSEE et ses agents dans toutes les sphères !
 
+
+## Articulations avec les bonnes pratiques :
+
+- démonstration github + cursor
+
+## Démonstration de cursor
+
+
 # Les Gains potentiels
 
 - Gains de temps potentiels et déjà observés
