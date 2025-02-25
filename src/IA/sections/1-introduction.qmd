@@ -8,9 +8,9 @@
 
 - IA intelligence artificielle, pourrait regrouper :
     - l'ensemble des traitements ayant pour but d'[**automatiser**]{.blue2} des processus
-    - des méthodes statistiques plus poussées -> économétrie, méthodes d'[**apprentissages statistiques**]{.blue2}
-    - Les méthodes d'apprentissage profond ->  [**Deep Learning**]{.orange} 
-    - Arrivée récente des [**Large Language Models(LLM)**]{.orange} a révolutionné le concept
+    - des méthodes statistiques plus poussées → économétrie, méthodes d'[**apprentissage statistique**]{.blue2}
+    - Les méthodes d'apprentissage profond →  [**Deep Learning**]{.orange} 
+    - Arrivée récente des [**Large Language Models (LLM)**]{.orange} a ouvert l'IA au grand public
 
 ## Un contour mal défini : 
 
@@ -23,10 +23,10 @@
 ![](../img/cadre_general_apprentissage.png){width=75% fig-align="center"}
 
 - Pour apprendre il faut des [**exemples**]{.blue2}!
-
-## Exemple de données : 
 - Des images, des textes, des sons, des vidéos, des données structurées, des données non structurées
 
-## Exemple de processus autmatisés
-- C'est l'occasion de présenter des travaux d'automatisation 
-menés par le SES 
+
+## Objectif de la présentation
+
+- Présenter les travaux techniques menés par le SES
+- En différenciant bien l'automatisation, de la partie IA / l'apprentissage statistique

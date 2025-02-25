@@ -15,3 +15,6 @@
 
 
 # Une bonne organisation pour une bonne structure
+
+- parler de sirene ici
+- parler de reconnaissance des ilmages saint martin

@@ -17,22 +17,17 @@ css: ../custom.css
 ascii: true
 ---
 
-# Bienvenue
-
-Ce site présente notre travail sur l'automatisation dans les études.
-
 
 # Plan de la présentation
 
 1️⃣ Introduction 
 
-2️⃣  Les LLMS
+2️⃣ les données spatiales 
+
+3️⃣  Les LLMS
 
 4️⃣ Opportunités pour l'INSEE
 
-5️⃣ Quelques exemples
-
-6️⃣ Discussion
 
 # 1️⃣ Introduction
 
@@ -40,21 +35,31 @@ Ce site présente notre travail sur l'automatisation dans les études.
 
 # Plan de la présentation
 
-
 1️⃣ Introduction 
 
-2️⃣ **Les LLMS**
+2️⃣ **Les données spatiales** 
+
+3️⃣  Les LLMS
 
 4️⃣ Opportunités pour l'INSEE
 
-5️⃣ Quelques exemples
+{{< include sections/3-donnees-spatiales.qmd >}}
 
-6️⃣ Discussion
+
+
+# Plan de la présentation
+
+1️⃣ Introduction 
+
+2️⃣ Les données spatiales
+
+3️⃣ **Les LLMS**
+
+4️⃣ Opportunités pour l'INSEE
 
 {{< include sections/2-llms.qmd >}}
 
 # Plan de la présentation
-
 
 1️⃣ Introduction 
 
@@ -62,8 +67,12 @@ Ce site présente notre travail sur l'automatisation dans les études.
 
 4️⃣ **Opportunités pour l'INSEE**
 
-5️⃣ Quelques exemples
+{{< include sections/4-opportunites-insee.qmd >}}
 
+
+1️⃣ Introduction
+2️⃣ Méthodologie
+3️⃣ Les données 
+4️⃣ Résultats obtenus
+5️⃣ Structure du projet
 6️⃣ Discussion
-
-{{< include sections/3-donnees-spatiales.qmd >}}

@@ -1,0 +1,12 @@
+---
+title: Application web
+image: img/toad_cratt.jpeg
+date: last-modified
+description: |
+  <b>Description :</b> Package visant à automatiser la production des études statistiques descriptives
+slides:
+  text: BoutadE
+  url: https://clement2323.github.io/boutade/
+order: 3
+lang: fr-FR
+---
