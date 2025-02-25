@@ -1,6 +1,6 @@
 ---
 title: Application web
-image: img/logo_boutade.jpeg
+image: img/logo_boutade.jpg
 date: last-modified
 description: |
   <b>Description :</b> Package visant à automatiser la production des études statistiques descriptives
