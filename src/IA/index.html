@@ -393,7 +393,9 @@
 <h2>Objectif de la présentation</h2>
 <ul>
 <li>Présenter les travaux techniques menés par le SES</li>
-<li>En différenciant bien l’automatisation, de la partie IA / l’apprentissage statistique</li>
+<li>En <span class="orange"><strong>différenciant</strong></span> bien l’automatisation, de la partie IA / l’apprentissage statistique</li>
+<li>présenter des intégrations de l’IA possibles dans les processus de l’INSEE (et donc dans l’ecosystème de l’INSEE)</li>
+<li>discuter des opportunités pour l’INSEE et ses agents</li>
 </ul>
 </section></section>
 <section>
@@ -549,43 +551,53 @@
 <li>Retrieval Augmented Generation <img data-src="../img/RAG.png" class="quarto-figure quarto-figure-center" style="width:75.0%"></li>
 </ul>
 </section>
+<section id="les-besoins-pour-un-rag" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Les besoins pour un RAG :</h2>
+<ul>
+<li>Le plus difficile est de structurer les données</li>
+<li>Exemple du site de l’insee.fr</li>
+<li>Démonstration</li>
+</ul>
+</section>
 <section id="un-exemple-de-rag-particulier-boutade" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Un exemple de RAG particulier (BoutadE):</h2>
-<ul>
-<li>Constat : beaucoup de <span class="orange"><strong>redondance</strong></span> dans les codes de production de tableaux et graphiques</li>
-<li>Or un tableau ou graphique est basé sur des éléments simples:
-<ul>
-<li>un titre</li>
-<li>des variables de croisement (sexe, CSP..)</li>
-<li>des variables quantitatives (Revenu, nb enfants)</li>
-<li>une fonction agregeante (somme, moyenne..)</li>
-</ul></li>
-<li>Hautement <span class="blue2"><strong>automatisable</strong></span></li>
+
+<img data-src="../img/redondance_r.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
+<li><p>Constat : beaucoup de <span class="orange"><strong>redondance</strong></span> dans les codes de production de tableaux et graphiques</p></li>
+<li><p>Hautement <span class="blue2"><strong>automatisable</strong></span> !</p></li>
 </ul>
 </section>
 <section id="un-exemple-de-rag-particulier-boutade-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Un exemple de RAG particulier (BoutadE):</h2>
-<ul>
-<li>idée : créer une machine qui prend en entrée les éléments mentionnés et qui renvoit l’output</li>
-</ul>
 
-<img data-src="../img/boutade.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
-<section id="un-autre-cas-site-de-linsee-.fr" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>Un autre cas site de l’INSEE .fr</h2>
+<img data-src="../img/arbre_boutade.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
+<li>idée : créer une machine qui prend en entrée les éléments mentionnés et qui renvoie la table ou le graphique associé</li>
+</ul>
 </section>
-<section id="que-retenir-de-tout-ça" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>Que retenir de tout ça ?</h2>
-<ul>
-<li>Il y a des opportunités pour l’INSEE et ses agents dans toutes les sphères</li>
+<section id="un-exemple-de-rag-particulier-boutade-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Un exemple de RAG particulier (BoutadE):</h2>
+<p>un tableau ou graphique est basé sur des éléments simples: - un titre - une table de départ - des variables de croisement (sexe, CSP..) - des variables quantitatives (Revenu, nb enfants) - une fonction agregeante (somme, moyenne..)</p>
+</section>
+<section id="la-naissance-de-boutade" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>La naissance de BoutaDE</h2>
+
+<img data-src="../img/boutade.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
+<li>De l’importance de savoir où on va avant de se lancer</li>
 </ul>
 </section></section>
+<section>
 <section id="plan-de-la-présentation-3" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
 <h1>Plan de la présentation</h1>
 <p>1️⃣ Introduction</p>
 <p>2️⃣ Les LLMS</p>
 <p>4️⃣ <strong>Opportunités pour l’INSEE</strong></p>
 </section>
-
+<section id="que-retenir-de-tout-ça" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Que retenir de tout ça ?</h2>
+<ul>
+<li>Il y a des opportunités pour l’INSEE et ses agents dans toutes les sphères !</li>
+</ul>
+</section></section>
 <section id="les-gains-potentiels" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
 <h1>Les Gains potentiels</h1>
 <ul>
