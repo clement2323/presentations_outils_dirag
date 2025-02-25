@@ -27,29 +27,41 @@
 - Retrieval Augmented Generation
 ![](../img/RAG.png){width=75% fig-align="center"}
 
+## Les besoins pour un RAG : 
+
+- Le plus difficile est de structurer les données
+- Exemple du site de l'insee.fr 
+- Démonstration
+
 ## Un exemple de RAG particulier (BoutadE):
 
+![](../img/redondance_r.png){width=75% fig-align="center"}
+
 - Constat : beaucoup de [**redondance**]{.orange} dans les codes de production de tableaux et graphiques
-- Or un tableau ou graphique est basé sur des éléments simples:
+
+- Hautement [**automatisable**]{.blue2} !
+
+
+## Un exemple de RAG particulier (BoutadE):
+
+![](../img/arbre_boutade.png){width=75% fig-align="center"}
+
+- idée : créer une machine qui prend en entrée les éléments mentionnés et qui renvoie la table ou le graphique associé
+
+##  Un exemple de RAG particulier (BoutadE):
+
+un tableau ou graphique est basé sur des éléments simples:
     - un titre
+    - une table de départ
     - des variables de croisement (sexe, CSP..)
     - des variables quantitatives (Revenu, nb enfants)
     - une fonction agregeante (somme, moyenne..)
-- Hautement [**automatisable**]{.blue2}
-
-## Un exemple de RAG particulier (BoutadE):
-
-- idée : créer une machine qui prend en entrée les éléments mentionnés et qui renvoit l'output
 
 
 
+## La naissance de BoutaDE
 
 ![](../img/boutade.png){width=75% fig-align="center"}
 
-## Un autre cas site de l'INSEE .fr
-
-
-## Que retenir de tout ça ?
-
-- Il y a des opportunités pour l'INSEE et ses agents dans toutes les sphères
+- De l'importance de savoir où on va avant de se lancer
 

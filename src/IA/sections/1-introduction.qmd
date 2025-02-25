@@ -29,4 +29,6 @@
 ## Objectif de la présentation
 
 - Présenter les travaux techniques menés par le SES
-- En différenciant bien l'automatisation, de la partie IA / l'apprentissage statistique
+- En [**différenciant**]{.orange} bien l'automatisation, de la partie IA / l'apprentissage statistique
+- présenter des intégrations de l'IA possibles dans les processus de l'INSEE (et donc dans l'ecosystème de l'INSEE)
+- discuter des opportunités pour l'INSEE et ses agents
