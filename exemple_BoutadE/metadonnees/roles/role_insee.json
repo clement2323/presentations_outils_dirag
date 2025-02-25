@@ -1,0 +1,24 @@
+{
+  "type": "description_figure_insee",
+  "instructions_communication": {
+    "style": "descriptif_analytique",
+    "directives": [
+      "Commencer par le message principal de la figure/tableau",
+      "Utiliser la formule 'Lecture : ' pour expliquer comment interpréter les données",
+      "Préciser le champ et la période d'observation",
+      "Mentionner systématiquement l'unité de mesure",
+      "Commencer par le message principal et aller plus en détail après"
+    ],
+    "vocabulaire_adapte": {
+      "augmentation": "hausse de ... points",
+      "baisse": "recul de ... points",
+      "stable": "quasi stable",
+      "environ": "de l'ordre de",
+      "plus_que": "supérieur à",
+      "moins_que": "inférieur à",
+      "moyenne": "en moyenne",
+      "estimation": "estimation provisoire"
+    }
+  }
+}
+
