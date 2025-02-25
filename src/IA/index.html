@@ -394,8 +394,9 @@
 <ul>
 <li>Présenter les travaux techniques menés par le SES</li>
 <li>En <span class="orange"><strong>différenciant</strong></span> bien l’automatisation, de la partie IA / l’apprentissage statistique</li>
-<li>présenter des intégrations de l’IA possibles dans les processus de l’INSEE (et donc dans l’ecosystème de l’INSEE)</li>
-<li>discuter des opportunités pour l’INSEE et ses agents</li>
+<li>Présenter des <span class="blue2"><strong>intégrations de l’IA</strong></span> possibles dans les processus de l’INSEE (et donc dans l’ecosystème de l’INSEE)</li>
+<li>Discuter des <span class="orange"><strong>opportunités pour l’INSEE et ses agents</strong></span></li>
+<li>Et donner des pistes pour identifier les processus pour lesquels <span class="blue2"><strong>l’automatisation peut s’avérer fructueuse</strong></span></li>
 </ul>
 </section></section>
 <section>
@@ -474,31 +475,52 @@
 <section id="quelles-données-en-entrée" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Quelles données en entrée ?</h2>
 <ul>
-<li>Pour [<strong>entraîner</strong>] le modèle, il nous faut des images et des annotations associées</li>
+<li>Pour <span class="orange"><strong>entraîner</strong></span> le modèle, il nous faut des images et des annotations associées</li>
 <li>Le projet <a href="https://cosia.ign.fr/">Cosia</a> nous donne ces annotations pour une année donnée</li>
 </ul>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../img/cosia.png" class="quarto-figure quarto-figure-center" style="width:50.0%"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../img/image_cosia.png" class="quarto-figure quarto-figure-center" style="width:50.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
 </section>
 <section id="quelques-liens" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Quelques liens</h2>
 <ul>
-<li><a href="https://inseefrlab.github.io/satellite-images-webapp/">Lien vers l’application présentatn les derniers résultats</a></li>
-<li><a href="https://inseefrlab.github.io/satellite-images-webapp/">Lien vers la bdocumentation du projet</a></li>
+<li><a href="https://inseefrlab.github.io/satellite-images-webapp/">Lien vers l’application présentant les derniers résultats</a></li>
+<li><a href="https://inseefrlab.github.io/satellite-images-webapp/">Lien vers la documentation du projet</a></li>
 </ul>
 </section>
 <section id="ce-quil-reste-à-faire" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Ce qu’il reste à faire</h2>
 <ul>
-<li>pérenniser le processus d’obtention des images pour <span class="orange"><strong>pérenniser</strong></span> les outils</li>
+<li>pérenniser le processus d’obtention des images (geoserveur) pour <span class="orange"><strong>pérenniser</strong></span> les outils</li>
 <li>gérer la transition RIL / Base adresse nationale</li>
-<li>travaux de qualité sur la source fiscale (Résil DROM)</li>
+<li>travaux de <span class="orange"><strong>qualité</strong></span> sur la source fiscale (Résil DROM)</li>
 <li><span class="blue2"><strong>se mettre à jour !</strong></span> : de nouveaux modèles émanent de la littérature très fréquemment</li>
 </ul>
 </section>
 <section id="lia-dans-tout-ça" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>L’IA dans tout ça ? :</h2>
 <ul>
-<li>La méthode de Zoom des plans de collecte est de l’ordre de <span class="orange"><strong>l’automatisation</strong></span>, mais utilise une méthode des k plus proches voisins pour regrouper les points qui sont proches</li>
-<li>Les algorithmes de Segmentation utilisés ici sont appelés des “SegFormer” et fond partis des “Vision Models” → Structure très proche des <span class="blue2"><strong>transformers</strong></span></li>
+<li>La méthode de Zoom des plans de collecte est de l’ordre de <span class="orange"><strong>l’automatisation</strong></span>, mais utilise une méthode des <span class="orange"><strong>k plus proches voisins</strong></span> pour regrouper les points qui sont proches</li>
+<li>Les <span class="orange"><strong>algorithmes de Segmentation</strong></span> utilisés ici sont appelés des “SegFormer” et fond partis des “Vision Models” → Structure très proche des <span class="blue2"><strong>transformers</strong></span></li>
 </ul>
 </section></section>
 <section>
@@ -509,17 +531,24 @@
 <p>3️⃣ <strong>Les LLMS</strong></p>
 <p>4️⃣ Opportunités pour l’INSEE</p>
 </section>
-<section id="breve-explication" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>Breve explication</h2>
+<section id="une-brève-explication" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Une brève explication</h2>
 <ul>
-<li>LLM</li>
-<li>Une autre façon de voir : compression d’un grand nombre d’informations dans une machine qui la redistribue sur demande</li>
+<li>LLM = <span class="orange"><strong>Large Language Model</strong></span></li>
+<li>Capable de prédire le <span class="blue2"><strong>mot suivant dans une phrase</strong></span> (à partir d’une contexte)</li>
+<li>Entrainé à converser avec l’utilisateur</li>
+<li>Données d’entrainement : une <span class="orange"><strong>énorme quantité de pages de textes</strong></span></li>
 </ul>
 </section>
 <section id="llm-et-confidentialité" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>LLM et confidentialité</h2>
 
-<img data-src="../img/llm_cadre_general.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
+<img data-src="../img/llm_cadre_general.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
+<li>le modèle final est de taille conséquente : peut aller jusqu’à plusieurs <span class="orange"><strong>centaines de Gigas</strong></span> (un film de bonne qualité 3 Gigas)</li>
+<li>Mais est capable de recracher une quantité d’information beaucoup plus grande !</li>
+<li>Idée de <span class="orange"><strong>compression de l’information</strong></span>, bien que la restitution soit particulière</li>
+</ul>
+</section>
 <section id="llm-et-confidentialité-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>LLM et confidentialité</h2>
 
@@ -532,6 +561,8 @@
 
 <img data-src="../img/llm_cadre_confidentialite_insee.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
 <li>les LLMS peuvent être hébergés <span class="orange">localement</span> mais nécessitent de l’espace et de la puissance de calcul</li>
+<li>Démonstration <span class="orange"><strong>d’Ollama</strong></span> sur le datalab ?</li>
+<li>Package R ollamax : [<span class="blue2"><strong>https://github.com/clement2323/ollamax</strong></span>]](https://github.com/clement2323/ollamax)</li>
 </ul>
 </section>
 <section id="notion-dembeddings" class="slide level2" data-background-image="background.svg" data-background-size="contain">
@@ -544,7 +575,11 @@
 <section id="base-vectorielle" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Base vectorielle:</h2>
 
-<img data-src="../img/base_vectorielle.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
+<img data-src="../img/base_vectorielle.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
+<li>On transforme le site de l’insee en une <span class="orange"><strong>base vectorielle</strong></span></li>
+<li>Revient à associer une position dans l’espace à chaque page du site</li>
+</ul>
+</section>
 <section id="rag" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>RAG :</h2>
 <ul>
@@ -554,35 +589,67 @@
 <section id="les-besoins-pour-un-rag" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Les besoins pour un RAG :</h2>
 <ul>
-<li>Le plus difficile est de structurer les données</li>
-<li>Exemple du site de l’insee.fr</li>
-<li>Démonstration</li>
+<li>Le plus difficile est de récupérer les données dans <span class="orange"><strong>un format structuré</strong></span></li>
+<li>Exemple du site de l’insee.fr : comment récupérer l’entiereté des publications ?</li>
 </ul>
 </section>
 <section id="un-exemple-de-rag-particulier-boutade" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Un exemple de RAG particulier (BoutadE):</h2>
 
 <img data-src="../img/redondance_r.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
-<li><p>Constat : beaucoup de <span class="orange"><strong>redondance</strong></span> dans les codes de production de tableaux et graphiques</p></li>
-<li><p>Hautement <span class="blue2"><strong>automatisable</strong></span> !</p></li>
+<li>Constat : beaucoup de <span class="orange"><strong>redondance</strong></span> dans les codes de production de tableaux et graphiques</li>
 </ul>
 </section>
 <section id="un-exemple-de-rag-particulier-boutade-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Un exemple de RAG particulier (BoutadE):</h2>
 
 <img data-src="../img/arbre_boutade.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
-<li>idée : créer une machine qui prend en entrée les éléments mentionnés et qui renvoie la table ou le graphique associé</li>
+<li>Hautement <span class="blue2"><strong>automatisable</strong></span> !</li>
 </ul>
 </section>
 <section id="un-exemple-de-rag-particulier-boutade-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Un exemple de RAG particulier (BoutadE):</h2>
-<p>un tableau ou graphique est basé sur des éléments simples: - un titre - une table de départ - des variables de croisement (sexe, CSP..) - des variables quantitatives (Revenu, nb enfants) - une fonction agregeante (somme, moyenne..)</p>
+<p>un tableau ou graphique est basé sur des <span class="orange"><strong>éléments simples</strong></span>:</p>
+<pre><code>- un titre
+- une table de départ
+- des variables de croisement (sexe, CSP..)
+- des variables quantitatives (Revenu, nb enfants)
+- une fonction agregeante (somme, moyenne..)</code></pre>
+<ul>
+<li>idée : créer <span class="orange"><strong>une machine</strong></span> qui prend en entrée les éléments mentionnés et qui renvoie la table ou le graphique associé</li>
+<li>on remplace toutes les lignes de code par l’appel d’une seule fonction !</li>
+</ul>
+</section>
+<section id="les-métadonnées" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Les métadonnées :</h2>
+<ul>
+<li><p><span class="orange"><strong>En ajoutant du contexte</strong></span> aux tableaux et en envoyant le tout à un LLM (en soignant le prompt), on construit un RAG artisanal permettant d’analyser les données</p></li>
+<li><p>éléments de contexte :</p>
+<ul>
+<li>dictionnaire des variables</li>
+<li>objectifs de l’étude, voire messages pressentis</li>
+<li>public cible</li>
+</ul></li>
+</ul>
+</section>
+<section id="les-métadonnées-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Les métadonnées :</h2>
+<ul>
+<li><a href="https://clement2323.github.io/boutade/">Démonstration</a></li>
+</ul>
 </section>
 <section id="la-naissance-de-boutade" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>La naissance de BoutaDE</h2>
 
 <img data-src="../img/boutade.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
 <li>De l’importance de savoir où on va avant de se lancer</li>
+</ul>
+</section>
+<section id="autres-cas-dusages-potentiels" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Autres cas d’usages potentiels :</h2>
+<ul>
+<li>Gonfler les publications du site de l’INSEE avec des notices sur la méthodologie et les missions de l’INSEE</li>
+<li>Produire un RAG sur les documents administratifs de l’INSEE</li>
 </ul>
 </section></section>
 <section>
@@ -597,6 +664,15 @@
 <ul>
 <li>Il y a des opportunités pour l’INSEE et ses agents dans toutes les sphères !</li>
 </ul>
+</section>
+<section id="articulations-avec-les-bonnes-pratiques" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Articulations avec les bonnes pratiques :</h2>
+<ul>
+<li>démonstration github + cursor</li>
+</ul>
+</section>
+<section id="démonstration-de-cursor" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Démonstration de cursor</h2>
 </section></section>
 <section id="les-gains-potentiels" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
 <h1>Les Gains potentiels</h1>

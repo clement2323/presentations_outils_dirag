@@ -32,7 +32,7 @@
     "href": "src/IA/index.html#objectif-de-la-présentation",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Objectif de la présentation",
-    "text": "Objectif de la présentation\n\nPrésenter les travaux techniques menés par le SES\nEn différenciant bien l’automatisation, de la partie IA / l’apprentissage statistique\nprésenter des intégrations de l’IA possibles dans les processus de l’INSEE (et donc dans l’ecosystème de l’INSEE)\ndiscuter des opportunités pour l’INSEE et ses agents"
+    "text": "Objectif de la présentation\n\nPrésenter les travaux techniques menés par le SES\nEn différenciant bien l’automatisation, de la partie IA / l’apprentissage statistique\nPrésenter des intégrations de l’IA possibles dans les processus de l’INSEE (et donc dans l’ecosystème de l’INSEE)\nDiscuter des opportunités pour l’INSEE et ses agents\nEt donner des pistes pour identifier les processus pour lesquels l’automatisation peut s’avérer fructueuse"
   },
   {
     "objectID": "src/IA/index.html#lexemple-des-plans-de-collecte",
@@ -123,21 +123,21 @@
     "href": "src/IA/index.html#quelles-données-en-entrée",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Quelles données en entrée ?",
-    "text": "Quelles données en entrée ?\n\nPour [entraîner] le modèle, il nous faut des images et des annotations associées\nLe projet Cosia nous donne ces annotations pour une année donnée"
+    "text": "Quelles données en entrée ?\n\nPour entraîner le modèle, il nous faut des images et des annotations associées\nLe projet Cosia nous donne ces annotations pour une année donnée"
   },
   {
     "objectID": "src/IA/index.html#quelques-liens",
     "href": "src/IA/index.html#quelques-liens",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Quelques liens",
-    "text": "Quelques liens\n\nLien vers l’application présentatn les derniers résultats\nLien vers la bdocumentation du projet"
+    "text": "Quelques liens\n\nLien vers l’application présentant les derniers résultats\nLien vers la documentation du projet"
   },
   {
     "objectID": "src/IA/index.html#ce-quil-reste-à-faire",
     "href": "src/IA/index.html#ce-quil-reste-à-faire",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Ce qu’il reste à faire",
-    "text": "Ce qu’il reste à faire\n\npérenniser le processus d’obtention des images pour pérenniser les outils\ngérer la transition RIL / Base adresse nationale\ntravaux de qualité sur la source fiscale (Résil DROM)\nse mettre à jour ! : de nouveaux modèles émanent de la littérature très fréquemment"
+    "text": "Ce qu’il reste à faire\n\npérenniser le processus d’obtention des images (geoserveur) pour pérenniser les outils\ngérer la transition RIL / Base adresse nationale\ntravaux de qualité sur la source fiscale (Résil DROM)\nse mettre à jour ! : de nouveaux modèles émanent de la littérature très fréquemment"
   },
   {
     "objectID": "src/IA/index.html#lia-dans-tout-ça",
@@ -147,18 +147,18 @@
     "text": "L’IA dans tout ça ? :\n\nLa méthode de Zoom des plans de collecte est de l’ordre de l’automatisation, mais utilise une méthode des k plus proches voisins pour regrouper les points qui sont proches\nLes algorithmes de Segmentation utilisés ici sont appelés des “SegFormer” et fond partis des “Vision Models” → Structure très proche des transformers"
   },
   {
-    "objectID": "src/IA/index.html#breve-explication",
-    "href": "src/IA/index.html#breve-explication",
+    "objectID": "src/IA/index.html#une-brève-explication",
+    "href": "src/IA/index.html#une-brève-explication",
     "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Breve explication",
-    "text": "Breve explication\n\nLLM\nUne autre façon de voir : compression d’un grand nombre d’informations dans une machine qui la redistribue sur demande"
+    "section": "Une brève explication",
+    "text": "Une brève explication\n\nLLM = Large Language Model\nCapable de prédire le mot suivant dans une phrase (à partir d’une contexte)\nEntrainé à converser avec l’utilisateur\nDonnées d’entrainement : une énorme quantité de pages de textes"
   },
   {
     "objectID": "src/IA/index.html#llm-et-confidentialité",
     "href": "src/IA/index.html#llm-et-confidentialité",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "LLM et confidentialité",
-    "text": "LLM et confidentialité"
+    "text": "LLM et confidentialité\n\n\nle modèle final est de taille conséquente : peut aller jusqu’à plusieurs centaines de Gigas (un film de bonne qualité 3 Gigas)\nMais est capable de recracher une quantité d’information beaucoup plus grande !\nIdée de compression de l’information, bien que la restitution soit particulière"
   },
   {
     "objectID": "src/IA/index.html#llm-et-confidentialité-1",
@@ -172,7 +172,7 @@
     "href": "src/IA/index.html#llm-et-confidentialité-2",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "LLM et confidentialité",
-    "text": "LLM et confidentialité\n\n\nles LLMS peuvent être hébergés localement mais nécessitent de l’espace et de la puissance de calcul"
+    "text": "LLM et confidentialité\n\n\nles LLMS peuvent être hébergés localement mais nécessitent de l’espace et de la puissance de calcul\nDémonstration d’Ollama sur le datalab ?\nPackage R ollamax : [https://github.com/clement2323/ollamax]](https://github.com/clement2323/ollamax)"
   },
   {
     "objectID": "src/IA/index.html#notion-dembeddings",
@@ -186,7 +186,7 @@
     "href": "src/IA/index.html#base-vectorielle",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Base vectorielle:",
-    "text": "Base vectorielle:"
+    "text": "Base vectorielle:\n\n\nOn transforme le site de l’insee en une base vectorielle\nRevient à associer une position dans l’espace à chaque page du site"
   },
   {
     "objectID": "src/IA/index.html#rag",
@@ -200,28 +200,42 @@
     "href": "src/IA/index.html#les-besoins-pour-un-rag",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Les besoins pour un RAG :",
-    "text": "Les besoins pour un RAG :\n\nLe plus difficile est de structurer les données\nExemple du site de l’insee.fr\nDémonstration"
+    "text": "Les besoins pour un RAG :\n\nLe plus difficile est de récupérer les données dans un format structuré\nExemple du site de l’insee.fr : comment récupérer l’entiereté des publications ?"
   },
   {
     "objectID": "src/IA/index.html#un-exemple-de-rag-particulier-boutade",
     "href": "src/IA/index.html#un-exemple-de-rag-particulier-boutade",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Un exemple de RAG particulier (BoutadE):",
-    "text": "Un exemple de RAG particulier (BoutadE):\n\n\nConstat : beaucoup de redondance dans les codes de production de tableaux et graphiques\nHautement automatisable !"
+    "text": "Un exemple de RAG particulier (BoutadE):\n\n\nConstat : beaucoup de redondance dans les codes de production de tableaux et graphiques"
   },
   {
     "objectID": "src/IA/index.html#un-exemple-de-rag-particulier-boutade-1",
     "href": "src/IA/index.html#un-exemple-de-rag-particulier-boutade-1",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Un exemple de RAG particulier (BoutadE):",
-    "text": "Un exemple de RAG particulier (BoutadE):\n\n\nidée : créer une machine qui prend en entrée les éléments mentionnés et qui renvoie la table ou le graphique associé"
+    "text": "Un exemple de RAG particulier (BoutadE):\n\n\nHautement automatisable !"
   },
   {
     "objectID": "src/IA/index.html#un-exemple-de-rag-particulier-boutade-2",
     "href": "src/IA/index.html#un-exemple-de-rag-particulier-boutade-2",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Un exemple de RAG particulier (BoutadE):",
-    "text": "Un exemple de RAG particulier (BoutadE):\nun tableau ou graphique est basé sur des éléments simples: - un titre - une table de départ - des variables de croisement (sexe, CSP..) - des variables quantitatives (Revenu, nb enfants) - une fonction agregeante (somme, moyenne..)"
+    "text": "Un exemple de RAG particulier (BoutadE):\nun tableau ou graphique est basé sur des éléments simples:\n- un titre\n- une table de départ\n- des variables de croisement (sexe, CSP..)\n- des variables quantitatives (Revenu, nb enfants)\n- une fonction agregeante (somme, moyenne..)\n\nidée : créer une machine qui prend en entrée les éléments mentionnés et qui renvoie la table ou le graphique associé\non remplace toutes les lignes de code par l’appel d’une seule fonction !"
+  },
+  {
+    "objectID": "src/IA/index.html#les-métadonnées",
+    "href": "src/IA/index.html#les-métadonnées",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les métadonnées :",
+    "text": "Les métadonnées :\n\nEn ajoutant du contexte aux tableaux et en envoyant le tout à un LLM (en soignant le prompt), on construit un RAG artisanal permettant d’analyser les données\néléments de contexte :\n\ndictionnaire des variables\nobjectifs de l’étude, voire messages pressentis\npublic cible"
+  },
+  {
+    "objectID": "src/IA/index.html#les-métadonnées-1",
+    "href": "src/IA/index.html#les-métadonnées-1",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les métadonnées :",
+    "text": "Les métadonnées :\n\nDémonstration"
   },
   {
     "objectID": "src/IA/index.html#la-naissance-de-boutade",
@@ -231,11 +245,32 @@
     "text": "La naissance de BoutaDE\n\n\nDe l’importance de savoir où on va avant de se lancer"
   },
   {
+    "objectID": "src/IA/index.html#autres-cas-dusages-potentiels",
+    "href": "src/IA/index.html#autres-cas-dusages-potentiels",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Autres cas d’usages potentiels :",
+    "text": "Autres cas d’usages potentiels :\n\nGonfler les publications du site de l’INSEE avec des notices sur la méthodologie et les missions de l’INSEE\nProduire un RAG sur les documents administratifs de l’INSEE"
+  },
+  {
     "objectID": "src/IA/index.html#que-retenir-de-tout-ça",
     "href": "src/IA/index.html#que-retenir-de-tout-ça",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Que retenir de tout ça ?",
     "text": "Que retenir de tout ça ?\n\nIl y a des opportunités pour l’INSEE et ses agents dans toutes les sphères !"
+  },
+  {
+    "objectID": "src/IA/index.html#articulations-avec-les-bonnes-pratiques",
+    "href": "src/IA/index.html#articulations-avec-les-bonnes-pratiques",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Articulations avec les bonnes pratiques :",
+    "text": "Articulations avec les bonnes pratiques :\n\ndémonstration github + cursor"
+  },
+  {
+    "objectID": "src/IA/index.html#démonstration-de-cursor",
+    "href": "src/IA/index.html#démonstration-de-cursor",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Démonstration de cursor",
+    "text": "Démonstration de cursor"
   },
   {
     "objectID": "index.html",
