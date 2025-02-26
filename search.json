@@ -298,7 +298,14 @@
     "href": "src/IA/index.html#lécosystème-insee",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "L’écosystème INSEE",
-    "text": "L’écosystème INSEE\n\nCes outils sont-ils disponibles à l’INSEE ?\nListes des ressources :\n\ndatalab\nAUS\nLS3\n\n\n1️⃣ Introduction 2️⃣ Méthodologie 3️⃣ Les données 4️⃣ Résultats obtenus 5️⃣ Structure du projet 6️⃣ Discussion"
+    "text": "L’écosystème INSEE\n\nCes outils sont-ils disponibles à l’INSEE ?\nListes des ressources :\n\ndatalab\nAUS\nLS3"
+  },
+  {
+    "objectID": "src/IA/index.html#lintégration-continue-un-pas-vers-la-rigueur",
+    "href": "src/IA/index.html#lintégration-continue-un-pas-vers-la-rigueur",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "L’intégration continue, un pas vers la rigueur :",
+    "text": "L’intégration continue, un pas vers la rigueur :\n\nGit/ Gitlab : permet la relecture des programmes autant que celle de l’étude dans un même cadre !\nl’integration continue permet d’actualiser l’output finale sans jamais séparer les codes des chiffres !\n\n1️⃣ Introduction 2️⃣ Méthodologie 3️⃣ Les données 4️⃣ Résultats obtenus 5️⃣ Structure du projet 6️⃣ Discussion"
   },
   {
     "objectID": "index.html",
