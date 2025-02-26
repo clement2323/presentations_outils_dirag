@@ -37,3 +37,6 @@
     - AUS 
     - LS3
     
+## L'intégration continue, un pas vers la rigueur : 
+- Git/ Gitlab : permet la relecture des programmes autant que celle de l'étude dans un même cadre !
+- l'integration continue permet d'actualiser l'output finale sans jamais séparer les codes des chiffres !
