@@ -1,30 +1,39 @@
 ## Que retenir de tout ça ?
-
 - Il y a des opportunités pour l'INSEE et ses agents dans toutes les sphères !
+- usages possibles : 
+    - automatisation des tâches redondantes
+    - production facilitée de documentation
+    - chats spécialisés dans un domaine (RAG) 
+    - aide précieuse en programmation (cursor démonstration + documentation via github)
+- glissements des agents converationnels vers les agents réalisant des actions ! (bolt.new)
 
+# La contrepartie 
+- [**Formations**]{.orange} nécessaires sur l'usage de ces outils
+- redéfinition possible de certains [**rôles**]{.blue2} :
+    - l'exemple de [**sirene**]{.orange} : + classification automatique des [**APE**]{.blue2}
+    - données [**satellites**]{.orange} + enquete cartographique
+- Nécessite une [**mise à jour**]{.blue2} assez fréquente 
 
-## Articulations avec les bonnes pratiques :
+## Attention aux données !:
 
-- démonstration github + cursor
+- Avec de [**mauvaises données**]{.blue2} on aura toujours de [**mauvais résultats**]{.orange} !
+- mauvaises images → mauvaises prédictions
+- mauvais corpus de texte → mauvais agents conversationnels
 
-## Démonstration de cursor
+## Attention à l'organisation :
+- L'[**automatisation**]{.orange} demande de la rigueur ! :
+    - [**stabilité**]{.blue2} dans les formats de données
+    - Mise à jour intelligente des sources de données
+    - [**parcimonie**]{.orange} dans les programmes
+    - [**Documentation**]{.orange} des programmes
+- nécessite une vraie [**culture de la donnée**]{.orange} !
+- notions de bonnes pratiques : Git/Gitlab, integration continue
 
+## L'écosystème INSEE
 
-# Les Gains potentiels
-
-- Gains de temps potentiels et déjà observés
-- documentation
-- automatisation des tâches redondantes -> SIREN
-- jusqu'à l'écriture d'une étude !!
-- le code etc.. données sarellites
-
-# Transformations à venir 
-
-- Formations nécessaires
-- redéfinition des rôles
-- se mettre à jour être réactif
-
-
-# Une bonne organisation pour une bonne structure
-- parler de sirene ici
-- parler de reconnaissance des ilmages saint martin
+- Ces outils sont-ils disponibles à l'INSEE ?
+- Listes des ressources :
+    - datalab
+    - AUS 
+    - LS3
+    

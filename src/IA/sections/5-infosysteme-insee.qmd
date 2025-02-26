@@ -1,5 +1,0 @@
-## AUS
- 
-## datalab
-
-## Git Github, Gitlab CI/CD

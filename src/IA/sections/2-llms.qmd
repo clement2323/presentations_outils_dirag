@@ -87,8 +87,32 @@ un tableau ou graphique est basé sur des [**éléments simples**]{.orange}:
 
 ![](../img/boutade.png){width=75% fig-align="center"}
 
-- De l'importance de savoir où on va avant de se lancer
+- De l'importance de savoir où on va avant de se lancer !
 
 ## Autres cas d'usages potentiels :
 - Gonfler les publications du site de l'INSEE avec des notices sur la méthodologie et les missions de l'INSEE
 - Produire un RAG sur les documents administratifs de l'INSEE 
+
+
+## Les modèles de visions :
+
+- Exemple récents de reconnaissance de texte sur des scans de fiche adresse RP
+- Les modèles de vision, sont devenus très performants !
+- Voir sur Mistra Chat
+
+## Les grosses boîtes :
+
+- Open AI et chat GPT
+- depSeek (concurrent chinois) -> Open source
+- Anthropic
+- Google
+- Meta
+- Mistral
+- X 
+
+## Les différents modèles : 
+- chatGPT 
+- claude
+- gemini
+- llama
+- mistral
