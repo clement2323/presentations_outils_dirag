@@ -65,14 +65,8 @@ ascii: true
 
 2️⃣ Les LLMS
 
+3️⃣ Les LLMS
 4️⃣ **Opportunités pour l'INSEE**
 
 {{< include sections/4-opportunites-insee.qmd >}}
 
-
-1️⃣ Introduction
-2️⃣ Méthodologie
-3️⃣ Les données 
-4️⃣ Résultats obtenus
-5️⃣ Structure du projet
-6️⃣ Discussion

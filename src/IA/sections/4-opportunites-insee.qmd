@@ -1,10 +1,10 @@
 ## Que retenir de tout ça ?
 - Il y a des opportunités pour l'INSEE et ses agents dans toutes les sphères !
 - usages possibles : 
-    - automatisation des tâches redondantes
-    - production facilitée de documentation
-    - chats spécialisés dans un domaine (RAG) 
-    - aide précieuse en programmation (cursor démonstration + documentation via github)
+    - [**automatisation**]{.orange} des tâches redondantes
+    - [**production**]{.blue2} facilitée de documentation
+    - chats [**spécialisés dans un domaine**]{.orange} (RAG) 
+    - aide précieuse en [**programmation**]{.blue1} (cursor démonstration (elo)+ documentation via github)
 - glissements des agents converationnels vers les agents réalisant des actions ! (bolt.new)
 
 # La contrepartie 
@@ -20,7 +20,7 @@
 - mauvaises images → mauvaises prédictions
 - mauvais corpus de texte → mauvais agents conversationnels
 
-## Attention à l'organisation :
+## Attention à l'organisation 
 - L'[**automatisation**]{.orange} demande de la rigueur ! :
     - [**stabilité**]{.blue2} dans les formats de données
     - Mise à jour intelligente des sources de données
@@ -37,6 +37,6 @@
     - AUS 
     - LS3
     
-## L'intégration continue, un pas vers la rigueur : 
+## L'intégration continue, un pas vers la rigueur 
 - Git/ Gitlab : permet la relecture des programmes autant que celle de l'étude dans un même cadre !
 - l'integration continue permet d'actualiser l'output finale sans jamais séparer les codes des chiffres !

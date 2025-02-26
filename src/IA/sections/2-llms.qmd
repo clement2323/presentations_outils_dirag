@@ -59,7 +59,7 @@
 
 ##  Un exemple de RAG particulier (BoutadE):
 
-un tableau ou graphique est basé sur des [**éléments simples**]{.orange}:
+- un tableau ou graphique est basé sur des [**éléments simples**]{.orange}:
 
     - un titre
     - une table de départ

@@ -54,26 +54,27 @@
 - Méritent d'etre analysées pour aider au [**Recensement de la Population**]{.orange}
 - Tempête Chido à Mayotte, critiques des élus
 
+## Les images
 ![](../img/sentinel2_exemple.png){width=75% fig-align="center"}
 
 
 ## Algorithmes de détection du bâti
 
+::: {layout-ncol=2}
 ![](../img/pleiade.png){width=75% fig-align="center"}
-
-
-## Algorithmes de détection du bâti
-
 ![](../img/strategie_segmentation.png){width=75% fig-align="center"}
+:::
+
+- Différentes résolutions, spatiales spectrales et temporelles 
+
 
 ## Quelles données en entrée ? 
 - Pour [**entraîner**]{.orange} le modèle, il nous faut des images et des annotations associées
 - Le projet [Cosia](https://cosia.ign.fr/) nous donne ces annotations pour une année donnée
-
 ::: {layout-ncol=2}
-![](../img/cosia.png){width=50% fig-align="center"}
+![](../img/cosia.png){width=70% fig-align="center"}
 
-![](../img/image_cosia.png){width=50% fig-align="center"}
+![](../img/image_cosia.png){width=70% fig-align="center"}
 :::
 
 ## Quelques liens 
