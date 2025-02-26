@@ -242,7 +242,7 @@
     "href": "src/IA/index.html#la-naissance-de-boutade",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "La naissance de BoutaDE",
-    "text": "La naissance de BoutaDE\n\n\nDe l’importance de savoir où on va avant de se lancer"
+    "text": "La naissance de BoutaDE\n\n\nDe l’importance de savoir où on va avant de se lancer !"
   },
   {
     "objectID": "src/IA/index.html#autres-cas-dusages-potentiels",
@@ -252,38 +252,66 @@
     "text": "Autres cas d’usages potentiels :\n\nGonfler les publications du site de l’INSEE avec des notices sur la méthodologie et les missions de l’INSEE\nProduire un RAG sur les documents administratifs de l’INSEE"
   },
   {
+    "objectID": "src/IA/index.html#les-modèles-de-visions",
+    "href": "src/IA/index.html#les-modèles-de-visions",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les modèles de visions :",
+    "text": "Les modèles de visions :\n\nExemple récents de reconnaissance de texte sur des scans de fiche adresse RP\nLes modèles de vision, sont devenus très performants !\nVoir sur Mistra Chat"
+  },
+  {
+    "objectID": "src/IA/index.html#les-grosses-boîtes",
+    "href": "src/IA/index.html#les-grosses-boîtes",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les grosses boîtes :",
+    "text": "Les grosses boîtes :\n\nOpen AI et chat GPT\ndepSeek (concurrent chinois) -&gt; Open source\nAnthropic\nGoogle\nMeta\nMistral\nX"
+  },
+  {
+    "objectID": "src/IA/index.html#les-différents-modèles",
+    "href": "src/IA/index.html#les-différents-modèles",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les différents modèles :",
+    "text": "Les différents modèles :\n\nchatGPT\nclaude\ngemini\nllama\nmistral"
+  },
+  {
     "objectID": "src/IA/index.html#que-retenir-de-tout-ça",
     "href": "src/IA/index.html#que-retenir-de-tout-ça",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Que retenir de tout ça ?",
-    "text": "Que retenir de tout ça ?\n\nIl y a des opportunités pour l’INSEE et ses agents dans toutes les sphères !"
+    "text": "Que retenir de tout ça ?\n\nIl y a des opportunités pour l’INSEE et ses agents dans toutes les sphères !\nusages possibles :\n\nautomatisation des tâches redondantes\nproduction facilitée de documentation\nchats spécialisés dans un domaine (RAG)\naide précieuse en programmation (cursor démonstration + documentation via github)\n\nglissements des agents converationnels vers les agents réalisant des actions ! (bolt.new)"
   },
   {
-    "objectID": "src/IA/index.html#articulations-avec-les-bonnes-pratiques",
-    "href": "src/IA/index.html#articulations-avec-les-bonnes-pratiques",
+    "objectID": "src/IA/index.html#attention-aux-données",
+    "href": "src/IA/index.html#attention-aux-données",
     "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Articulations avec les bonnes pratiques :",
-    "text": "Articulations avec les bonnes pratiques :\n\ndémonstration github + cursor"
+    "section": "Attention aux données !:",
+    "text": "Attention aux données !:\n\nAvec de mauvaises données on aura toujours de mauvais résultats !\nmauvaises images → mauvaises prédictions\nmauvais corpus de texte → mauvais agents conversationnels"
   },
   {
-    "objectID": "src/IA/index.html#démonstration-de-cursor",
-    "href": "src/IA/index.html#démonstration-de-cursor",
+    "objectID": "src/IA/index.html#attention-à-lorganisation",
+    "href": "src/IA/index.html#attention-à-lorganisation",
     "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Démonstration de cursor",
-    "text": "Démonstration de cursor"
+    "section": "Attention à l’organisation :",
+    "text": "Attention à l’organisation :\n\nL’automatisation demande de la rigueur ! :\n\nstabilité dans les formats de données\nMise à jour intelligente des sources de données\nparcimonie dans les programmes\nDocumentation des programmes\n\nnécessite une vraie culture de la donnée !\nnotions de bonnes pratiques : Git/Gitlab, integration continue"
+  },
+  {
+    "objectID": "src/IA/index.html#lécosystème-insee",
+    "href": "src/IA/index.html#lécosystème-insee",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "L’écosystème INSEE",
+    "text": "L’écosystème INSEE\n\nCes outils sont-ils disponibles à l’INSEE ?\nListes des ressources :\n\ndatalab\nAUS\nLS3\n\n\n1️⃣ Introduction 2️⃣ Méthodologie 3️⃣ Les données 4️⃣ Résultats obtenus 5️⃣ Structure du projet 6️⃣ Discussion"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Présentation SES Dirag",
     "section": "",
-    "text": "Description : L'IA et ses usages (potentiels) à l'INSEE\n\n            \n\n            \n            \n              \n                Clément Guillo\n                Feb 26, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        Slides\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n  \n     \n      \n        \n          \n            \n          \n         \n        \n          \n            \n            \n\n            \n              Description : Application web à destination des agents facilitant l'utilisation des résultats fournis par le modèle de segmentation.\n\n            \n\n            \n            \n              \n                \n                Feb 25, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        CraTT\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n  \n     \n      \n        \n          \n            \n          \n         \n        \n          \n            \n            \n\n            \n              Description : Package visant à automatiser la production des études statistiques descriptives\n\n            \n\n            \n            \n              \n                \n                Feb 25, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        BoutadE\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n\n\n\nNo matching items"
+    "text": "Description : L'IA et ses usages (potentiels) à l'INSEE\n\n            \n\n            \n            \n              \n                Clément Guillo\n                Feb 26, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        Slides\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n  \n     \n      \n        \n          \n            \n          \n         \n        \n          \n            \n            \n\n            \n              Description : Application web à destination des agents facilitant l'utilisation des résultats fournis par le modèle de segmentation.\n\n            \n\n            \n            \n              \n                \n                Feb 26, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        CraTT\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n  \n     \n      \n        \n          \n            \n          \n         \n        \n          \n            \n            \n\n            \n              Description : Package visant à automatiser la production des études statistiques descriptives\n\n            \n\n            \n            \n              \n                \n                Feb 26, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        BoutadE\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#présentations-des-outils-produits-par-le-ses",
     "href": "index.html#présentations-des-outils-produits-par-le-ses",
     "title": "Présentation SES Dirag",
     "section": "",
-    "text": "Description : L'IA et ses usages (potentiels) à l'INSEE\n\n            \n\n            \n            \n              \n                Clément Guillo\n                Feb 26, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        Slides\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n  \n     \n      \n        \n          \n            \n          \n         \n        \n          \n            \n            \n\n            \n              Description : Application web à destination des agents facilitant l'utilisation des résultats fournis par le modèle de segmentation.\n\n            \n\n            \n            \n              \n                \n                Feb 25, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        CraTT\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n  \n     \n      \n        \n          \n            \n          \n         \n        \n          \n            \n            \n\n            \n              Description : Package visant à automatiser la production des études statistiques descriptives\n\n            \n\n            \n            \n              \n                \n                Feb 25, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        BoutadE\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n\n\n\nNo matching items"
+    "text": "Description : L'IA et ses usages (potentiels) à l'INSEE\n\n            \n\n            \n            \n              \n                Clément Guillo\n                Feb 26, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        Slides\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n  \n     \n      \n        \n          \n            \n          \n         \n        \n          \n            \n            \n\n            \n              Description : Application web à destination des agents facilitant l'utilisation des résultats fournis par le modèle de segmentation.\n\n            \n\n            \n            \n              \n                \n                Feb 26, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        CraTT\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n  \n     \n      \n        \n          \n            \n          \n         \n        \n          \n            \n            \n\n            \n              Description : Package visant à automatiser la production des études statistiques descriptives\n\n            \n\n            \n            \n              \n                \n                Feb 26, 2025\n              \n            \n            \n            \n              \n              \n                \n                  \n                    \n                      \n                        BoutadE\n                      \n                    \n                  \n                \n              \n              \n              \n            \n          \n        \n\n        \n\n      \n     \n  \n\n\n\n\nNo matching items"
   }
 ]
