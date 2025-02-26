@@ -56,10 +56,9 @@
 
 
 ## Les images
-::: {layout-ncol=2}
-![](../img/pleiade.png){width=75% fig-align="center"}
-![](../img/sentinel2_exemple.png){width=75% fig-align="center"}
-:::
+
+| ![](../img/pleiade.png){width=60% fig-align="center"} | ![](../img/sentinel2_exemple.png){width=60% fig-align="center"} |
+|:---:|:---:|
 
 - Différentes résolutions, spatiales spectrales et temporelles 
 - [**Lien vers les images**](https://geoserver-hachathon2025.lab.sspcloud.fr/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage?23&filter=false)
@@ -69,13 +68,12 @@
 ![](../img/strategie_segmentation.png){width=75% fig-align="center"}
 
 ## Quelles données en entrée ? 
+| ![](../img/cosia.png){width=60% fig-align="center"} | ![](../img/image_cosia.png){width=60% fig-align="center"} |
+|:---:|:---:|
+
+
 - Pour [**entraîner**]{.orange} le modèle, il nous faut des images et des annotations associées
 - Le projet [Cosia](https://cosia.ign.fr/) nous donne ces annotations pour une année donnée
-::: {layout-ncol=2}
-![](../img/cosia.png){width=70% fig-align="center"}
-
-![](../img/image_cosia.png){width=70% fig-align="center"}
-:::
 
 ## Quelques liens 
 - [Lien vers l'application présentant les derniers résultats](https://inseefrlab.github.io/satellite-images-webapp/)

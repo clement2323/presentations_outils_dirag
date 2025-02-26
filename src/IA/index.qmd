@@ -2,7 +2,7 @@
 title: "IA et ses usages (potentiels) à l'INSEE"
 subtitle: |
   **Clément Guillo**
-date: "24/02/2024"
+date: "2025/02/26"
 date-format: "DD MMMM YYYY"
 slide-number: true
 lang: fr-FR
@@ -22,9 +22,9 @@ ascii: true
 
 1️⃣ Introduction 
 
-2️⃣ les données spatiales 
+2️⃣ Les données spatiales 
 
-3️⃣  Les LLMS
+3️⃣ Les LLMS
 
 4️⃣ Opportunités pour l'INSEE
 
@@ -39,7 +39,7 @@ ascii: true
 
 2️⃣ **Les données spatiales** 
 
-3️⃣  Les LLMS
+3️⃣ Les LLMS
 
 4️⃣ Opportunités pour l'INSEE
 
@@ -63,9 +63,10 @@ ascii: true
 
 1️⃣ Introduction 
 
-2️⃣ Les LLMS
+2️⃣ Les données spatiales
 
 3️⃣ Les LLMS
+
 4️⃣ **Opportunités pour l'INSEE**
 
 {{< include sections/4-opportunites-insee.qmd >}}

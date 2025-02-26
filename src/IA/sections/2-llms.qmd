@@ -21,7 +21,7 @@
 
 - les LLMS peuvent être hébergés [localement]{.orange} mais nécessitent de l'espace et de la puissance de calcul
 - Démonstration [**d'Ollama**]{.orange} sur le datalab ? 
-- Package R ollamax : [[**https://github.com/clement2323/ollamax**]{.blue2}]](https://github.com/clement2323/ollamax)
+- Package R ollamax : [[**https://github.com/clement2323/ollamax**]{.blue2}](https://github.com/clement2323/ollamax)
 
 ## Notion d'embeddings:
 ![](../img/embeddings.png){width=75% fig-align="center"}
@@ -99,7 +99,7 @@
 - Exemple récents de reconnaissance de texte sur des scans de fiche adresse RP
 - Les modèles de vision, sont devenus très performants !
 - Voir sur [Mistral Chat](https://chat.mistral.ai/chat)
-- [**Démonstration**]{.blue2}: rapport écrit à partir de schémas excalidraw..
+- [**Démonstration**]{.blue2} : rapport écrit à partir de schémas excalidraw..
 
 ## Les grosses boîtes :
 
