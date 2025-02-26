@@ -54,20 +54,19 @@
 - Méritent d'etre analysées pour aider au [**Recensement de la Population**]{.orange}
 - Tempête Chido à Mayotte, critiques des élus en Guyane
 
+
 ## Les images
-![](../img/sentinel2_exemple.png){width=75% fig-align="center"}
-
-
-## Algorithmes de détection du bâti
-
 ::: {layout-ncol=2}
 ![](../img/pleiade.png){width=75% fig-align="center"}
-![](../img/strategie_segmentation.png){width=75% fig-align="center"}
+![](../img/sentinel2_exemple.png){width=75% fig-align="center"}
 :::
 
 - Différentes résolutions, spatiales spectrales et temporelles 
 - [**Lien vers les images**](https://geoserver-hachathon2025.lab.sspcloud.fr/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage?23&filter=false)
 
+# Méthode d'entraînement
+
+![](../img/strategie_segmentation.png){width=75% fig-align="center"}
 
 ## Quelles données en entrée ? 
 - Pour [**entraîner**]{.orange} le modèle, il nous faut des images et des annotations associées
