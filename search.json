@@ -105,25 +105,25 @@
     "text": "Algorithmes de détection du bâti\n\nLes données satellites sont une source d’image non conventionnelle\nMéritent d’etre analysées pour aider au Recensement de la Population\nTempête Chido à Mayotte, critiques des élus"
   },
   {
+    "objectID": "src/IA/index.html#les-images",
+    "href": "src/IA/index.html#les-images",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Les images",
+    "text": "Les images"
+  },
+  {
     "objectID": "src/IA/index.html#algorithmes-de-détection-du-bâti-1",
     "href": "src/IA/index.html#algorithmes-de-détection-du-bâti-1",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Algorithmes de détection du bâti",
-    "text": "Algorithmes de détection du bâti"
-  },
-  {
-    "objectID": "src/IA/index.html#algorithmes-de-détection-du-bâti-2",
-    "href": "src/IA/index.html#algorithmes-de-détection-du-bâti-2",
-    "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Algorithmes de détection du bâti",
-    "text": "Algorithmes de détection du bâti"
+    "text": "Algorithmes de détection du bâti\n\n\n\n\n\n\n \n\n\n\n\nDifférentes résolutions, spatiales spectrales et temporelles"
   },
   {
     "objectID": "src/IA/index.html#quelles-données-en-entrée",
     "href": "src/IA/index.html#quelles-données-en-entrée",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Quelles données en entrée ?",
-    "text": "Quelles données en entrée ?\n\nPour entraîner le modèle, il nous faut des images et des annotations associées\nLe projet Cosia nous donne ces annotations pour une année donnée"
+    "text": "Quelles données en entrée ?\n\nPour entraîner le modèle, il nous faut des images et des annotations associées\nLe projet Cosia nous donne ces annotations pour une année donnée ::: {layout-ncol=2} \n\n :::"
   },
   {
     "objectID": "src/IA/index.html#quelques-liens",
@@ -221,7 +221,7 @@
     "href": "src/IA/index.html#un-exemple-de-rag-particulier-boutade-2",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Un exemple de RAG particulier (BoutadE):",
-    "text": "Un exemple de RAG particulier (BoutadE):\nun tableau ou graphique est basé sur des éléments simples:\n- un titre\n- une table de départ\n- des variables de croisement (sexe, CSP..)\n- des variables quantitatives (Revenu, nb enfants)\n- une fonction agregeante (somme, moyenne..)\n\nidée : créer une machine qui prend en entrée les éléments mentionnés et qui renvoie la table ou le graphique associé\non remplace toutes les lignes de code par l’appel d’une seule fonction !"
+    "text": "Un exemple de RAG particulier (BoutadE):\n\nun tableau ou graphique est basé sur des éléments simples:\n\nun titre\nune table de départ\ndes variables de croisement (sexe, CSP..)\ndes variables quantitatives (Revenu, nb enfants)\nune fonction agregeante (somme, moyenne..)\n\nidée : créer une machine qui prend en entrée les éléments mentionnés et qui renvoie la table ou le graphique associé\non remplace toutes les lignes de code par l’appel d’une seule fonction !"
   },
   {
     "objectID": "src/IA/index.html#les-métadonnées",
@@ -277,7 +277,7 @@
     "href": "src/IA/index.html#que-retenir-de-tout-ça",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Que retenir de tout ça ?",
-    "text": "Que retenir de tout ça ?\n\nIl y a des opportunités pour l’INSEE et ses agents dans toutes les sphères !\nusages possibles :\n\nautomatisation des tâches redondantes\nproduction facilitée de documentation\nchats spécialisés dans un domaine (RAG)\naide précieuse en programmation (cursor démonstration + documentation via github)\n\nglissements des agents converationnels vers les agents réalisant des actions ! (bolt.new)"
+    "text": "Que retenir de tout ça ?\n\nIl y a des opportunités pour l’INSEE et ses agents dans toutes les sphères !\nusages possibles :\n\nautomatisation des tâches redondantes\nproduction facilitée de documentation\nchats spécialisés dans un domaine (RAG)\naide précieuse en programmation (cursor démonstration (elo)+ documentation via github)\n\nglissements des agents converationnels vers les agents réalisant des actions ! (bolt.new)"
   },
   {
     "objectID": "src/IA/index.html#attention-aux-données",
@@ -290,8 +290,8 @@
     "objectID": "src/IA/index.html#attention-à-lorganisation",
     "href": "src/IA/index.html#attention-à-lorganisation",
     "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "Attention à l’organisation :",
-    "text": "Attention à l’organisation :\n\nL’automatisation demande de la rigueur ! :\n\nstabilité dans les formats de données\nMise à jour intelligente des sources de données\nparcimonie dans les programmes\nDocumentation des programmes\n\nnécessite une vraie culture de la donnée !\nnotions de bonnes pratiques : Git/Gitlab, integration continue"
+    "section": "Attention à l’organisation",
+    "text": "Attention à l’organisation\n\nL’automatisation demande de la rigueur ! :\n\nstabilité dans les formats de données\nMise à jour intelligente des sources de données\nparcimonie dans les programmes\nDocumentation des programmes\n\nnécessite une vraie culture de la donnée !\nnotions de bonnes pratiques : Git/Gitlab, integration continue"
   },
   {
     "objectID": "src/IA/index.html#lécosystème-insee",
@@ -304,8 +304,8 @@
     "objectID": "src/IA/index.html#lintégration-continue-un-pas-vers-la-rigueur",
     "href": "src/IA/index.html#lintégration-continue-un-pas-vers-la-rigueur",
     "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "L’intégration continue, un pas vers la rigueur :",
-    "text": "L’intégration continue, un pas vers la rigueur :\n\nGit/ Gitlab : permet la relecture des programmes autant que celle de l’étude dans un même cadre !\nl’integration continue permet d’actualiser l’output finale sans jamais séparer les codes des chiffres !\n\n1️⃣ Introduction 2️⃣ Méthodologie 3️⃣ Les données 4️⃣ Résultats obtenus 5️⃣ Structure du projet 6️⃣ Discussion"
+    "section": "L’intégration continue, un pas vers la rigueur",
+    "text": "L’intégration continue, un pas vers la rigueur\n\nGit/ Gitlab : permet la relecture des programmes autant que celle de l’étude dans un même cadre !\nl’integration continue permet d’actualiser l’output finale sans jamais séparer les codes des chiffres !"
   },
   {
     "objectID": "index.html",

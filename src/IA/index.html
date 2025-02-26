@@ -462,43 +462,34 @@
 <li>Méritent d’etre analysées pour aider au <span class="orange"><strong>Recensement de la Population</strong></span></li>
 <li>Tempête Chido à Mayotte, critiques des élus</li>
 </ul>
+</section>
+<section id="les-images" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Les images</h2>
 
 <img data-src="../img/sentinel2_exemple.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
 <section id="algorithmes-de-détection-du-bâti-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Algorithmes de détection du bâti</h2>
-
-<img data-src="../img/pleiade.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
-<section id="algorithmes-de-détection-du-bâti-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>Algorithmes de détection du bâti</h2>
-
-<img data-src="../img/strategie_segmentation.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
-<section id="quelles-données-en-entrée" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>Quelles données en entrée ?</h2>
-<ul>
-<li>Pour <span class="orange"><strong>entraîner</strong></span> le modèle, il nous faut des images et des annotations associées</li>
-<li>Le projet <a href="https://cosia.ign.fr/">Cosia</a> nous donne ces annotations pour une année donnée</li>
-</ul>
 <div>
 
 </div>
 <div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../img/cosia.png" class="quarto-figure quarto-figure-center" style="width:50.0%"></p>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../img/image_cosia.png" class="quarto-figure quarto-figure-center" style="width:50.0%"></p>
-</figure>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p><img data-src="../img/pleiade.png" class="quarto-figure quarto-figure-center" style="width:75.0%"> <img data-src="../img/strategie_segmentation.png" class="quarto-figure quarto-figure-center" style="width:75.0%"></p>
 </div>
 </div>
 </div>
-</div>
+<ul>
+<li>Différentes résolutions, spatiales spectrales et temporelles</li>
+</ul>
+</section>
+<section id="quelles-données-en-entrée" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Quelles données en entrée ?</h2>
+<ul>
+<li>Pour <span class="orange"><strong>entraîner</strong></span> le modèle, il nous faut des images et des annotations associées</li>
+<li>Le projet <a href="https://cosia.ign.fr/">Cosia</a> nous donne ces annotations pour une année donnée ::: {layout-ncol=2} <img data-src="../img/cosia.png" class="quarto-figure quarto-figure-center" style="width:70.0%"></li>
+</ul>
+<p><img data-src="../img/image_cosia.png" class="quarto-figure quarto-figure-center" style="width:70.0%"> :::</p>
 </section>
 <section id="quelques-liens" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Quelques liens</h2>
@@ -609,15 +600,17 @@
 </section>
 <section id="un-exemple-de-rag-particulier-boutade-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Un exemple de RAG particulier (BoutadE):</h2>
-<p>un tableau ou graphique est basé sur des <span class="orange"><strong>éléments simples</strong></span>:</p>
-<pre><code>- un titre
-- une table de départ
-- des variables de croisement (sexe, CSP..)
-- des variables quantitatives (Revenu, nb enfants)
-- une fonction agregeante (somme, moyenne..)</code></pre>
 <ul>
-<li>idée : créer <span class="orange"><strong>une machine</strong></span> qui prend en entrée les éléments mentionnés et qui renvoie la table ou le graphique associé</li>
-<li>on remplace toutes les lignes de code par l’appel d’une seule fonction !</li>
+<li><p>un tableau ou graphique est basé sur des <span class="orange"><strong>éléments simples</strong></span>:</p>
+<ul>
+<li>un titre</li>
+<li>une table de départ</li>
+<li>des variables de croisement (sexe, CSP..)</li>
+<li>des variables quantitatives (Revenu, nb enfants)</li>
+<li>une fonction agregeante (somme, moyenne..)</li>
+</ul></li>
+<li><p>idée : créer <span class="orange"><strong>une machine</strong></span> qui prend en entrée les éléments mentionnés et qui renvoie la table ou le graphique associé</p></li>
+<li><p>on remplace toutes les lignes de code par l’appel d’une seule fonction !</p></li>
 </ul>
 </section>
 <section id="les-métadonnées" class="slide level2" data-background-image="background.svg" data-background-size="contain">
@@ -687,7 +680,7 @@
 <h1>Plan de la présentation</h1>
 <p>1️⃣ Introduction</p>
 <p>2️⃣ Les LLMS</p>
-<p>4️⃣ <strong>Opportunités pour l’INSEE</strong></p>
+<p>3️⃣ Les LLMS 4️⃣ <strong>Opportunités pour l’INSEE</strong></p>
 </section>
 <section id="que-retenir-de-tout-ça" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Que retenir de tout ça ?</h2>
@@ -695,10 +688,10 @@
 <li>Il y a des opportunités pour l’INSEE et ses agents dans toutes les sphères !</li>
 <li>usages possibles :
 <ul>
-<li>automatisation des tâches redondantes</li>
-<li>production facilitée de documentation</li>
-<li>chats spécialisés dans un domaine (RAG)</li>
-<li>aide précieuse en programmation (cursor démonstration + documentation via github)</li>
+<li><span class="orange"><strong>automatisation</strong></span> des tâches redondantes</li>
+<li><span class="blue2"><strong>production</strong></span> facilitée de documentation</li>
+<li>chats <span class="orange"><strong>spécialisés dans un domaine</strong></span> (RAG)</li>
+<li>aide précieuse en <span class="blue1"><strong>programmation</strong></span> (cursor démonstration (elo)+ documentation via github)</li>
 </ul></li>
 <li>glissements des agents converationnels vers les agents réalisant des actions ! (bolt.new)</li>
 </ul>
@@ -725,7 +718,7 @@
 </ul>
 </section>
 <section id="attention-à-lorganisation" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>Attention à l’organisation :</h2>
+<h2>Attention à l’organisation</h2>
 <ul>
 <li>L’<span class="orange"><strong>automatisation</strong></span> demande de la rigueur ! :
 <ul>
@@ -751,12 +744,11 @@
 </ul>
 </section>
 <section id="lintégration-continue-un-pas-vers-la-rigueur" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>L’intégration continue, un pas vers la rigueur :</h2>
+<h2>L’intégration continue, un pas vers la rigueur</h2>
 <ul>
 <li>Git/ Gitlab : permet la relecture des programmes autant que celle de l’étude dans un même cadre !</li>
 <li>l’integration continue permet d’actualiser l’output finale sans jamais séparer les codes des chiffres !</li>
 </ul>
-<p>1️⃣ Introduction 2️⃣ Méthodologie 3️⃣ Les données 4️⃣ Résultats obtenus 5️⃣ Structure du projet 6️⃣ Discussion</p>
 
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
