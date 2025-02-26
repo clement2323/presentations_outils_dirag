@@ -339,12 +339,12 @@
 <div class="quarto-title-authors">
 </div>
 
-  <p class="date">02 décembre 2025</p>
+  <p class="date">26 février 2025</p>
 </section>
 <section id="plan-de-la-présentation" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
 <h1>Plan de la présentation</h1>
 <p>1️⃣ Introduction</p>
-<p>2️⃣ les données spatiales</p>
+<p>2️⃣ Les données spatiales</p>
 <p>3️⃣ Les LLMS</p>
 <p>4️⃣ Opportunités pour l’INSEE</p>
 </section>
@@ -465,16 +465,20 @@
 </section>
 <section id="les-images" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Les images</h2>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout-ncol="2">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><img data-src="../img/pleiade.png" class="quarto-figure quarto-figure-center" style="width:75.0%"> <img data-src="../img/sentinel2_exemple.png" class="quarto-figure quarto-figure-center" style="width:75.0%"></p>
-</div>
-</div>
-</div>
+<table>
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><img data-src="../img/pleiade.png" class="quarto-figure quarto-figure-center" style="width:60.0%"></th>
+<th style="text-align: center;"><img data-src="../img/sentinel2_exemple.png" class="quarto-figure quarto-figure-center" style="width:60.0%"></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 <ul>
 <li>Différentes résolutions, spatiales spectrales et temporelles</li>
 <li><a href="https://geoserver-hachathon2025.lab.sspcloud.fr/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage?23&amp;filter=false"><strong>Lien vers les images</strong></a></li>
@@ -487,11 +491,24 @@
 <img data-src="../img/strategie_segmentation.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"></section>
 <section id="quelles-données-en-entrée" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Quelles données en entrée ?</h2>
+<table>
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><img data-src="../img/cosia.png" class="quarto-figure quarto-figure-center" style="width:60.0%"></th>
+<th style="text-align: center;"><img data-src="../img/image_cosia.png" class="quarto-figure quarto-figure-center" style="width:60.0%"></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 <ul>
 <li>Pour <span class="orange"><strong>entraîner</strong></span> le modèle, il nous faut des images et des annotations associées</li>
-<li>Le projet <a href="https://cosia.ign.fr/">Cosia</a> nous donne ces annotations pour une année donnée ::: {layout-ncol=2} <img data-src="../img/cosia.png" class="quarto-figure quarto-figure-center" style="width:70.0%"></li>
+<li>Le projet <a href="https://cosia.ign.fr/">Cosia</a> nous donne ces annotations pour une année donnée</li>
 </ul>
-<p><img data-src="../img/image_cosia.png" class="quarto-figure quarto-figure-center" style="width:70.0%"> :::</p>
 </section>
 <section id="quelques-liens" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Quelques liens</h2>
@@ -555,7 +572,7 @@
 <img data-src="../img/llm_cadre_confidentialite_insee.png" class="quarto-figure quarto-figure-center r-stretch" style="width:75.0%"><ul>
 <li>les LLMS peuvent être hébergés <span class="orange">localement</span> mais nécessitent de l’espace et de la puissance de calcul</li>
 <li>Démonstration <span class="orange"><strong>d’Ollama</strong></span> sur le datalab ?</li>
-<li>Package R ollamax : [<span class="blue2"><strong>https://github.com/clement2323/ollamax</strong></span>]](https://github.com/clement2323/ollamax)</li>
+<li>Package R ollamax : <a href="https://github.com/clement2323/ollamax"><span class="blue2"><strong>https://github.com/clement2323/ollamax</strong></span></a></li>
 </ul>
 </section>
 <section id="notion-dembeddings" class="slide level2" data-background-image="background.svg" data-background-size="contain">
@@ -653,7 +670,7 @@
 <li>Exemple récents de reconnaissance de texte sur des scans de fiche adresse RP</li>
 <li>Les modèles de vision, sont devenus très performants !</li>
 <li>Voir sur <a href="https://chat.mistral.ai/chat">Mistral Chat</a></li>
-<li><span class="blue2"><strong>Démonstration</strong></span>: rapport écrit à partir de schémas excalidraw..</li>
+<li><span class="blue2"><strong>Démonstration</strong></span> : rapport écrit à partir de schémas excalidraw..</li>
 </ul>
 </section>
 <section id="les-grosses-boîtes" class="slide level2" data-background-image="background.svg" data-background-size="contain">
@@ -682,8 +699,9 @@
 <section id="plan-de-la-présentation-3" class="title-slide slide level1 center" data-background-image="background.svg" data-background-size="contain">
 <h1>Plan de la présentation</h1>
 <p>1️⃣ Introduction</p>
-<p>2️⃣ Les LLMS</p>
-<p>3️⃣ Les LLMS 4️⃣ <strong>Opportunités pour l’INSEE</strong></p>
+<p>2️⃣ Les données spatiales</p>
+<p>3️⃣ Les LLMS</p>
+<p>4️⃣ <strong>Opportunités pour l’INSEE</strong></p>
 </section>
 <section id="que-retenir-de-tout-ça" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>Que retenir de tout ça ?</h2>

@@ -109,14 +109,14 @@
     "href": "src/IA/index.html#les-images",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Les images",
-    "text": "Les images\n\n\n\n\n\n\n \n\n\n\n\nDifférentes résolutions, spatiales spectrales et temporelles\nLien vers les images"
+    "text": "Les images\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDifférentes résolutions, spatiales spectrales et temporelles\nLien vers les images"
   },
   {
     "objectID": "src/IA/index.html#quelles-données-en-entrée",
     "href": "src/IA/index.html#quelles-données-en-entrée",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Quelles données en entrée ?",
-    "text": "Quelles données en entrée ?\n\nPour entraîner le modèle, il nous faut des images et des annotations associées\nLe projet Cosia nous donne ces annotations pour une année donnée ::: {layout-ncol=2} \n\n :::"
+    "text": "Quelles données en entrée ?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPour entraîner le modèle, il nous faut des images et des annotations associées\nLe projet Cosia nous donne ces annotations pour une année donnée"
   },
   {
     "objectID": "src/IA/index.html#quelques-liens",
@@ -165,7 +165,7 @@
     "href": "src/IA/index.html#llm-et-confidentialité-2",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "LLM et confidentialité",
-    "text": "LLM et confidentialité\n\n\nles LLMS peuvent être hébergés localement mais nécessitent de l’espace et de la puissance de calcul\nDémonstration d’Ollama sur le datalab ?\nPackage R ollamax : [https://github.com/clement2323/ollamax]](https://github.com/clement2323/ollamax)"
+    "text": "LLM et confidentialité\n\n\nles LLMS peuvent être hébergés localement mais nécessitent de l’espace et de la puissance de calcul\nDémonstration d’Ollama sur le datalab ?\nPackage R ollamax : https://github.com/clement2323/ollamax"
   },
   {
     "objectID": "src/IA/index.html#notion-dembeddings",
@@ -249,7 +249,7 @@
     "href": "src/IA/index.html#les-modèles-de-visions",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Les modèles de visions :",
-    "text": "Les modèles de visions :\n\nExemple récents de reconnaissance de texte sur des scans de fiche adresse RP\nLes modèles de vision, sont devenus très performants !\nVoir sur Mistral Chat\nDémonstration: rapport écrit à partir de schémas excalidraw.."
+    "text": "Les modèles de visions :\n\nExemple récents de reconnaissance de texte sur des scans de fiche adresse RP\nLes modèles de vision, sont devenus très performants !\nVoir sur Mistral Chat\nDémonstration : rapport écrit à partir de schémas excalidraw.."
   },
   {
     "objectID": "src/IA/index.html#les-grosses-boîtes",
