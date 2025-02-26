@@ -98,7 +98,8 @@
 
 - Exemple récents de reconnaissance de texte sur des scans de fiche adresse RP
 - Les modèles de vision, sont devenus très performants !
-- Voir sur Mistral Chat
+- Voir sur [Mistral Chat](https://chat.mistral.ai/chat)
+- [**Démonstration**]{.blue2}: rapport écrit à partir de schémas excalidraw..
 
 ## Les grosses boîtes :
 
