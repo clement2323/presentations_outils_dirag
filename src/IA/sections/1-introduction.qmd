@@ -1,8 +1,8 @@
 ## Introduction
 
-- Beaucoup de "hype" autour de l'intelligence artificielle (IA)
-- Mot valise dont la définition change selon l'interlocuteur
-- Identifier les opportunités pour l'INSEE, et les enjeux associés
+- Beaucoup de [**"hype"**]{.orange} autour de l'intelligence artificielle (IA)
+- [**Mot valise**]{.blue1} dont la définition change selon l'interlocuteur
+- Identifier les [**opportunités pour l'INSEE**]{.orange}, et les enjeux associés
 
 ## Un contour mal défini : 
 

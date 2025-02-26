@@ -57,18 +57,17 @@
 
 ## Les images
 
-| ![](../img/pleiade.png){width=60% fig-align="center"} | ![](../img/sentinel2_exemple.png){width=60% fig-align="center"} |
+| ![](../img/pleiade.png){width=75% fig-align="center"} | ![](../img/sentinel2_exemple.png){width=75% fig-align="center"} |
 |:---:|:---:|
 
 - Différentes résolutions, spatiales spectrales et temporelles 
 - [**Lien vers les images**](https://geoserver-hachathon2025.lab.sspcloud.fr/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage?23&filter=false)
 
-# Méthode d'entraînement
-
+# Stratégie de détection de changements
 ![](../img/strategie_segmentation.png){width=75% fig-align="center"}
 
 ## Quelles données en entrée ? 
-| ![](../img/cosia.png){width=60% fig-align="center"} | ![](../img/image_cosia.png){width=60% fig-align="center"} |
+| ![](../img/cosia.png){width=70% fig-align="center"} | ![](../img/image_cosia.png){width=60% fig-align="center"} |
 |:---:|:---:|
 
 
