@@ -270,7 +270,7 @@
     "href": "src/IA/index.html#que-retenir-de-tout-ça",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Que retenir de tout ça ?",
-    "text": "Que retenir de tout ça ?\n\nIl y a des opportunités pour l’INSEE et ses agents dans toutes les sphères !\nusages possibles :\n\nautomatisation des tâches redondantes\nproduction facilitée de documentation\nchats spécialisés dans un domaine (RAG)\naide précieuse en programmation (cursor démonstration (elo)+ documentation via github)\n\nglissements des agents converationnels vers les agents réalisant des actions ! (bolt.new)"
+    "text": "Que retenir de tout ça ?\n\nIl y a des opportunités pour l’INSEE et ses agents dans toutes les sphères !\nusages possibles :\n\nautomatisation des tâches redondantes\nproduction facilitée de documentation\nchats spécialisés dans un domaine (RAG)\naide précieuse en programmation (cursor démonstration (elo) + documentation via github)\n\nglissements des agents conversationnels vers les agents réalisant des actions ! (bolt.new)"
   },
   {
     "objectID": "src/IA/index.html#attention-aux-données",
@@ -284,21 +284,28 @@
     "href": "src/IA/index.html#attention-à-lorganisation",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "Attention à l’organisation",
-    "text": "Attention à l’organisation\n\nL’automatisation demande de la rigueur ! :\n\nstabilité dans les formats de données\nMise à jour intelligente des sources de données\nparcimonie dans les programmes\nDocumentation des programmes\n\nnécessite une vraie culture de la donnée !\nnotions de bonnes pratiques : Git/Gitlab, integration continue"
-  },
-  {
-    "objectID": "src/IA/index.html#lécosystème-insee",
-    "href": "src/IA/index.html#lécosystème-insee",
-    "title": "IA et ses usages (potentiels) à l’INSEE",
-    "section": "L’écosystème INSEE",
-    "text": "L’écosystème INSEE\n\nCes outils sont-ils disponibles à l’INSEE ?\nListes des ressources :\n\ndatalab\nAUS\nLS3"
+    "text": "Attention à l’organisation\n\nL’automatisation demande de la rigueur ! :\n\nstabilité dans les formats de données\nMise à jour intelligente des sources de données\nparcimonie dans les programmes\nDocumentation des programmes\nrecherche de la reproductibilité des programmes\n\nnécessite une vraie culture de la donnée !"
   },
   {
     "objectID": "src/IA/index.html#lintégration-continue-un-pas-vers-la-rigueur",
     "href": "src/IA/index.html#lintégration-continue-un-pas-vers-la-rigueur",
     "title": "IA et ses usages (potentiels) à l’INSEE",
     "section": "L’intégration continue, un pas vers la rigueur",
-    "text": "L’intégration continue, un pas vers la rigueur\n\nGit/ Gitlab : permet la relecture des programmes autant que celle de l’étude dans un même cadre !\nl’integration continue permet d’actualiser l’output finale sans jamais séparer les codes des chiffres !"
+    "text": "L’intégration continue, un pas vers la rigueur\n\nPour obtenir la reproductibilité d’un processus, il faut des notions de bonnes pratiques\nGit/Gitlab → integration continue\nGit/ Gitlab : permet la relecture des programmes autant que celle d’une publication\nl’integration continue permet d’actualiser l’output finale sans jamais séparer les codes des chiffres !"
+  },
+  {
+    "objectID": "src/IA/index.html#lécosystème-insee",
+    "href": "src/IA/index.html#lécosystème-insee",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "L’écosystème INSEE",
+    "text": "L’écosystème INSEE\n\nCes outils sont-ils disponibles à l’INSEE ?\n\n\n\nTrade-of entre flexibilité et confidentialité"
+  },
+  {
+    "objectID": "src/IA/index.html#le-triangle-des-bonnes-pratiques",
+    "href": "src/IA/index.html#le-triangle-des-bonnes-pratiques",
+    "title": "IA et ses usages (potentiels) à l’INSEE",
+    "section": "Le triangle des bonnes pratiques",
+    "text": "Le triangle des bonnes pratiques"
   },
   {
     "objectID": "index.html",
