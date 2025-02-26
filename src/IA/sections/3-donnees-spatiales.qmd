@@ -52,7 +52,7 @@
 
 - Les données satellites sont une source d'image non conventionnelle 
 - Méritent d'etre analysées pour aider au [**Recensement de la Population**]{.orange}
-- Tempête Chido à Mayotte, critiques des élus
+- Tempête Chido à Mayotte, critiques des élus en Guyane
 
 ## Les images
 ![](../img/sentinel2_exemple.png){width=75% fig-align="center"}
@@ -66,6 +66,7 @@
 :::
 
 - Différentes résolutions, spatiales spectrales et temporelles 
+- [**Lien vers les images**](https://geoserver-hachathon2025.lab.sspcloud.fr/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage?23&filter=false)
 
 
 ## Quelles données en entrée ? 
